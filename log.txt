@@ -1,0 +1,1722 @@
+Feb  9 15:38:36 kernel: [a4:34:d9:e5:3c:ba]
+Feb  9 15:38:36 kernel: station needing HT protection leaving,count 5
+Feb  9 15:38:36 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 IEEE 802.11: associated
+Feb  9 15:38:37 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 WPA: EAPOL-Key timeout
+Feb  9 15:38:37 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 WPA: authenticator requests disconnect: reason code 2
+Feb  9 15:38:37 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 15:38:37 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (26)
+Feb  9 15:38:37 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 IEEE 802.11: disassociated
+Feb  9 15:38:37 kernel: [60:6d:c7:8c:4e:72]
+Feb  9 15:38:37 kernel: station needing HT protection leaving,count 5
+Feb  9 15:38:37 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 WPA: EAPOL-Key timeout
+Feb  9 15:38:37 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 WPA: pairwise key handshake completed (WPA)
+Feb  9 15:38:37 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 WPA: group key handshake completed (WPA)
+Feb  9 15:38:39 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 IEEE 802.11: associated
+Feb  9 15:38:39 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 WPA: pairwise key handshake completed (WPA)
+Feb  9 15:38:39 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 WPA: group key handshake completed (WPA)
+Feb  9 15:38:39 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: associated
+Feb  9 15:38:39 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: pairwise key handshake completed (WPA)
+Feb  9 15:38:39 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: group key handshake completed (WPA)
+Feb  9 15:39:37 kernel: [a4:34:d9:e5:17:76]
+Feb  9 15:39:37 kernel: station needing HT protection leaving,count 6
+Feb  9 15:39:37 kernel: [7c:78:7e:71:99:59]
+Feb  9 15:39:37 kernel: station needing HT protection leaving,count 5
+Feb  9 15:39:37 kernel: [00:28:f8:93:a9:ea]
+Feb  9 15:39:37 kernel: station needing HT protection leaving,count 4
+Feb  9 15:39:37 kernel: [50:2b:73:d8:2b:8e]
+Feb  9 15:39:37 kernel: station needing HT protection leaving,count 3
+Feb  9 15:39:37 kernel: [bc:2f:3d:3f:1a:60]
+Feb  9 15:39:37 kernel: station needing HT protection leaving,count 2
+Feb  9 15:39:37 kernel: [60:6d:c7:8c:4e:72]
+Feb  9 15:39:37 kernel: station needing HT protection leaving,count 1
+Feb  9 15:39:37 kernel: [a4:34:d9:e5:3c:ba]
+Feb  9 15:39:37 kernel: station needing HT protection leaving,count 0
+Feb  9 15:39:39 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (25)
+Feb  9 15:39:39 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: disassociated
+Feb  9 15:39:39 hostapd: wifi0vap0: STA 7c:78:7e:71:99:59 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (25)
+Feb  9 15:39:39 hostapd: wifi0vap0: STA 7c:78:7e:71:99:59 IEEE 802.11: disassociated
+Feb  9 15:39:39 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (51)
+Feb  9 15:39:39 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: disassociated
+Feb  9 15:39:39 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (17)
+Feb  9 15:39:39 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e IEEE 802.11: disassociated
+Feb  9 15:39:39 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (21)
+Feb  9 15:39:39 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 IEEE 802.11: disassociated
+Feb  9 15:39:39 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (30)
+Feb  9 15:39:39 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 IEEE 802.11: disassociated
+Feb  9 15:39:39 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (25)
+Feb  9 15:39:39 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: disassociated
+Feb  9 15:39:39 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: associated
+Feb  9 15:39:39 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 IEEE 802.11: associated
+Feb  9 15:39:39 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: associated
+Feb  9 15:39:39 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: pairwise key handshake completed (WPA)
+Feb  9 15:39:39 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 15:39:39 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: pairwise key handshake completed (WPA)
+Feb  9 15:39:40 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: group key handshake completed (WPA)
+Feb  9 15:39:40 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 WPA: pairwise key handshake completed (WPA)
+Feb  9 15:39:40 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 WPA: group key handshake completed (WPA)
+Feb  9 15:39:40 hostapd: wifi0vap0: STA 7c:78:7e:71:99:59 IEEE 802.11: associated
+Feb  9 15:39:41 hostapd: wifi0vap0: STA 7c:78:7e:71:99:59 WPA: EAPOL-Key timeout
+Feb  9 15:39:41 hostapd: wifi0vap0: STA 7c:78:7e:71:99:59 WPA: pairwise key handshake completed (WPA)
+Feb  9 15:39:41 hostapd: wifi0vap0: STA 7c:78:7e:71:99:59 WPA: group key handshake completed (WPA)
+Feb  9 15:39:56 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: associated
+Feb  9 15:39:57 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: EAPOL-Key timeout
+Feb  9 15:39:57 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: pairwise key handshake completed (WPA)
+Feb  9 15:39:57 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: group key handshake completed (WPA)
+Feb  9 15:45:26 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: associated
+Feb  9 15:45:26 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 15:45:27 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 15:45:27 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 15:45:29 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 15:45:29 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 15:45:31 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 15:45:31 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 15:45:33 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 15:45:33 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: authenticator requests disconnect: reason code 2
+Feb  9 15:45:33 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 15:45:33 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (35)
+Feb  9 15:45:33 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: disassociated
+Feb  9 15:45:33 kernel: [f0:d7:aa:f5:45:34]
+Feb  9 15:45:33 kernel: station needing HT protection leaving,count 5
+Feb  9 15:45:53 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 IEEE 802.11: associated
+Feb  9 15:45:53 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 WPA: pairwise key handshake completed (WPA)
+Feb  9 15:45:53 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 WPA: group key handshake completed (WPA)
+Feb  9 15:46:11 kernel: [a4:34:d9:e5:17:76]
+Feb  9 15:46:11 kernel: station needing HT protection leaving,count 5
+Feb  9 15:46:11 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (22)
+Feb  9 15:46:11 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: disassociated
+Feb  9 15:46:11 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: recvd deauth msg from STA, reason code (6), rssi (0)
+Feb  9 15:46:12 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: associated
+Feb  9 15:46:12 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: pairwise key handshake completed (WPA)
+Feb  9 15:46:12 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: group key handshake completed (WPA)
+Feb  9 15:46:59 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 WPA: group key handshake completed (WPA)
+Feb  9 15:46:59 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 WPA: group key handshake completed (WPA)
+Feb  9 15:46:59 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 15:46:59 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: group key handshake completed (WPA)
+Feb  9 15:46:59 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: group key handshake completed (WPA)
+Feb  9 15:47:00 hostapd: wifi0vap0: STA 7c:78:7e:71:99:59 WPA: EAPOL-Key timeout
+Feb  9 15:47:01 hostapd: wifi0vap0: STA 7c:78:7e:71:99:59 WPA: received EAPOL-Key 2/2 Group with unexpected replay counter
+Feb  9 15:47:01 hostapd: wifi0vap0: STA 7c:78:7e:71:99:59 WPA: group key handshake completed (WPA)
+Feb  9 15:49:25 hostapd: wifi0vap0: IEEE 802.11 mode/channel change - Mode: IEEE 802.11ng  Channel: 13  Frequency: 2472 MHz
+Feb  9 15:49:25 kernel: [a4:34:d9:e5:3c:ba]
+Feb  9 15:49:25 kernel: station needing HT protection leaving,count 5
+Feb  9 15:49:25 kernel: [60:6d:c7:8c:4e:72]
+Feb  9 15:49:25 kernel: station needing HT protection leaving,count 4
+Feb  9 15:49:25 kernel: [00:28:f8:93:a9:ea]
+Feb  9 15:49:25 kernel: station needing HT protection leaving,count 3
+Feb  9 15:49:25 kernel: [7c:78:7e:71:99:59]
+Feb  9 15:49:25 kernel: station needing HT protection leaving,count 2
+Feb  9 15:49:25 kernel: [bc:2f:3d:3f:1a:60]
+Feb  9 15:49:25 kernel: station needing HT protection leaving,count 1
+Feb  9 15:49:25 kernel: [a4:34:d9:e5:17:76]
+Feb  9 15:49:25 kernel: station needing HT protection leaving,count 0
+Feb  9 15:49:27 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (25)
+Feb  9 15:49:27 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: disassociated
+Feb  9 15:49:27 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (28)
+Feb  9 15:49:27 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 IEEE 802.11: disassociated
+Feb  9 15:49:27 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (51)
+Feb  9 15:49:27 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: disassociated
+Feb  9 15:49:27 hostapd: wifi0vap0: STA 7c:78:7e:71:99:59 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (20)
+Feb  9 15:49:27 hostapd: wifi0vap0: STA 7c:78:7e:71:99:59 IEEE 802.11: disassociated
+Feb  9 15:49:27 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (9)
+Feb  9 15:49:27 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 IEEE 802.11: disassociated
+Feb  9 15:49:27 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (21)
+Feb  9 15:49:27 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: disassociated
+Feb  9 15:49:27 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: associated
+Feb  9 15:49:27 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: associated
+Feb  9 15:49:27 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: pairwise key handshake completed (WPA)
+Feb  9 15:49:27 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 15:49:28 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: EAPOL-Key timeout
+Feb  9 15:49:28 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: pairwise key handshake completed (WPA)
+Feb  9 15:49:28 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: group key handshake completed (WPA)
+Feb  9 15:49:33 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: associated
+Feb  9 15:49:33 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 IEEE 802.11: associated
+Feb  9 15:49:34 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: EAPOL-Key timeout
+Feb  9 15:49:34 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: pairwise key handshake completed (WPA)
+Feb  9 15:49:34 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: group key handshake completed (WPA)
+Feb  9 15:49:34 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 WPA: EAPOL-Key timeout
+Feb  9 15:49:34 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 WPA: pairwise key handshake completed (WPA)
+Feb  9 15:49:34 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 WPA: group key handshake completed (WPA)
+Feb  9 15:49:35 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e IEEE 802.11: associated
+Feb  9 15:49:35 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: pairwise key handshake completed (WPA)
+Feb  9 15:49:35 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: group key handshake completed (WPA)
+Feb  9 15:49:54 kernel: [a4:34:d9:e5:17:76]
+Feb  9 15:49:54 kernel: station needing HT protection leaving,count 4
+Feb  9 15:49:54 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: recvd deauth msg from STA, reason code (3), rssi (23)
+Feb  9 15:49:54 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: disassociated
+Feb  9 15:56:59 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: group key handshake completed (WPA)
+Feb  9 15:56:59 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: group key handshake completed (WPA)
+Feb  9 15:56:59 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 15:57:00 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 WPA: EAPOL-Key timeout
+Feb  9 15:57:02 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 WPA: EAPOL-Key timeout
+Feb  9 15:57:04 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 WPA: EAPOL-Key timeout
+Feb  9 15:57:04 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 WPA: group key handshake completed (WPA)
+Feb  9 15:58:32 kernel: [50:2b:73:d8:2b:8e]
+Feb  9 15:58:32 kernel: station needing HT protection leaving,count 3
+Feb  9 15:58:32 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e IEEE 802.11: recvd deauth msg from STA, reason code (3), rssi (20)
+Feb  9 15:58:32 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e IEEE 802.11: disassociated
+Feb  9 16:00:31 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e IEEE 802.11: associated
+Feb  9 16:00:32 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: pairwise key handshake completed (WPA)
+Feb  9 16:00:32 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: group key handshake completed (WPA)
+Feb  9 16:05:11 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: associated
+Feb  9 16:05:11 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: pairwise key handshake completed (WPA)
+Feb  9 16:05:11 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: group key handshake completed (WPA)
+Feb  9 16:06:59 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: group key handshake completed (WPA)
+Feb  9 16:06:59 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: group key handshake completed (WPA)
+Feb  9 16:06:59 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: group key handshake completed (WPA)
+Feb  9 16:06:59 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 16:07:00 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 WPA: EAPOL-Key timeout
+Feb  9 16:07:02 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 WPA: EAPOL-Key timeout
+Feb  9 16:07:04 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 WPA: EAPOL-Key timeout
+Feb  9 16:07:06 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 WPA: EAPOL-Key timeout
+Feb  9 16:07:06 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 WPA: authenticator requests disconnect: reason code 2
+Feb  9 16:07:06 kernel: [bc:2f:3d:3f:1a:60]
+Feb  9 16:07:06 kernel: station needing HT protection leaving,count 4
+Feb  9 16:07:06 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 16:07:06 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (20)
+Feb  9 16:07:06 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 IEEE 802.11: disassociated
+Feb  9 16:08:02 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: recvd deauth msg from STA, reason code (3), rssi (26)
+Feb  9 16:08:02 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: disassociated
+Feb  9 16:08:02 kernel: [a4:34:d9:e5:17:76]
+Feb  9 16:08:02 kernel: station needing HT protection leaving,count 3
+Feb  9 16:09:11 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e IEEE 802.11: recvd deauth msg from STA, reason code (3), rssi (25)
+Feb  9 16:09:11 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e IEEE 802.11: disassociated
+Feb  9 16:09:11 kernel: [50:2b:73:d8:2b:8e]
+Feb  9 16:09:11 kernel: station needing HT protection leaving,count 2
+Feb  9 16:11:16 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (22)
+Feb  9 16:11:16 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: disassociated
+Feb  9 16:11:16 kernel: [a4:34:d9:e5:3c:ba]
+Feb  9 16:11:16 kernel: station needing HT protection leaving,count 1
+Feb  9 16:11:16 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: recvd deauth msg from STA, reason code (6), rssi (0)
+Feb  9 16:11:17 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: associated
+Feb  9 16:11:18 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: EAPOL-Key timeout
+Feb  9 16:11:19 kernel: 
+Feb  9 16:11:19 kernel: wbuf_tx_complete:droping eapol frame for station a4:34:d9:e5:3c:ba (TXERROR)
+Feb  9 16:11:20 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: EAPOL-Key timeout
+Feb  9 16:11:21 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: pairwise key handshake completed (WPA)
+Feb  9 16:11:21 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: group key handshake completed (WPA)
+Feb  9 16:11:38 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: associated
+Feb  9 16:11:38 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: pairwise key handshake completed (WPA)
+Feb  9 16:11:38 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: group key handshake completed (WPA)
+Feb  9 16:15:18 kernel: [a4:34:d9:e5:3c:ba]
+Feb  9 16:15:18 kernel: station needing HT protection leaving,count 2
+Feb  9 16:15:18 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: recvd deauth msg from STA, reason code (3), rssi (16)
+Feb  9 16:15:18 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: disassociated
+Feb  9 16:15:30 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 IEEE 802.11: associated
+Feb  9 16:15:31 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 WPA: EAPOL-Key timeout
+Feb  9 16:15:31 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 WPA: pairwise key handshake completed (WPA)
+Feb  9 16:15:31 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 WPA: group key handshake completed (WPA)
+Feb  9 16:15:46 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: associated
+Feb  9 16:15:46 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: pairwise key handshake completed (WPA)
+Feb  9 16:15:46 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: group key handshake completed (WPA)
+Feb  9 16:15:47 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e IEEE 802.11: associated
+Feb  9 16:15:47 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: pairwise key handshake completed (WPA)
+Feb  9 16:15:47 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: group key handshake completed (WPA)
+Feb  9 16:16:59 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 WPA: group key handshake completed (WPA)
+Feb  9 16:16:59 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: group key handshake completed (WPA)
+Feb  9 16:16:59 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 16:16:59 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: group key handshake completed (WPA)
+Feb  9 16:17:00 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: EAPOL-Key timeout
+Feb  9 16:17:00 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: received EAPOL-Key 2/2 Group with unexpected replay counter
+Feb  9 16:17:00 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: group key handshake completed (WPA)
+Feb  9 16:17:35 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 IEEE 802.11: recvd deauth msg from STA, reason code (3), rssi (26)
+Feb  9 16:17:35 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 IEEE 802.11: disassociated
+Feb  9 16:17:35 kernel: [bc:2f:3d:3f:1a:60]
+Feb  9 16:17:35 kernel: station needing HT protection leaving,count 4
+Feb  9 16:17:36 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 IEEE 802.11: associated
+Feb  9 16:17:36 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 WPA: pairwise key handshake completed (WPA)
+Feb  9 16:17:36 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 WPA: group key handshake completed (WPA)
+Feb  9 16:17:39 kernel: [a4:34:d9:e5:3c:ba]
+Feb  9 16:17:39 kernel: station needing HT protection leaving,count 4
+Feb  9 16:17:39 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: recvd deauth msg from STA, reason code (3), rssi (25)
+Feb  9 16:17:39 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: disassociated
+Feb  9 16:18:20 kernel: [50:82:d5:94:70:e4]
+Feb  9 16:18:20 kernel: station needing HT protection leaving,count 3
+Feb  9 16:18:20 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (36)
+Feb  9 16:18:20 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: disassociated
+Feb  9 16:18:59 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: associated
+Feb  9 16:18:59 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: pairwise key handshake completed (WPA)
+Feb  9 16:18:59 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: group key handshake completed (WPA)
+Feb  9 16:19:33 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (36)
+Feb  9 16:19:33 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: disassociated
+Feb  9 16:19:33 kernel: [50:82:d5:94:70:e4]
+Feb  9 16:19:33 kernel: station needing HT protection leaving,count 3
+Feb  9 16:19:54 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: associated
+Feb  9 16:19:54 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: pairwise key handshake completed (WPA)
+Feb  9 16:19:54 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: group key handshake completed (WPA)
+Feb  9 16:20:30 kernel: [50:82:d5:94:70:e4]
+Feb  9 16:20:30 kernel: station needing HT protection leaving,count 3
+Feb  9 16:20:30 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (36)
+Feb  9 16:20:30 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: disassociated
+Feb  9 16:20:50 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: associated
+Feb  9 16:20:50 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: pairwise key handshake completed (WPA)
+Feb  9 16:20:50 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: group key handshake completed (WPA)
+Feb  9 16:20:59 kernel: [50:82:d5:94:70:e4]
+Feb  9 16:20:59 kernel: station needing HT protection leaving,count 3
+Feb  9 16:20:59 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (37)
+Feb  9 16:20:59 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: disassociated
+Feb  9 16:23:03 kernel: [00:28:f8:93:a9:ea]
+Feb  9 16:23:03 kernel: station needing HT protection leaving,count 2
+Feb  9 16:23:03 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (42)
+Feb  9 16:23:03 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: disassociated
+Feb  9 16:23:03 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: recvd deauth msg from STA, reason code (6), rssi (0)
+Feb  9 16:23:04 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: associated
+Feb  9 16:23:04 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: pairwise key handshake completed (WPA)
+Feb  9 16:23:04 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 16:26:59 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: group key handshake completed (WPA)
+Feb  9 16:26:59 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 16:27:00 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 WPA: EAPOL-Key timeout
+Feb  9 16:27:02 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 WPA: EAPOL-Key timeout
+Feb  9 16:27:04 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 WPA: EAPOL-Key timeout
+Feb  9 16:27:06 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 WPA: EAPOL-Key timeout
+Feb  9 16:27:06 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 WPA: authenticator requests disconnect: reason code 2
+Feb  9 16:27:06 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 16:27:06 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (21)
+Feb  9 16:27:06 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 IEEE 802.11: disassociated
+Feb  9 16:27:06 kernel: [bc:2f:3d:3f:1a:60]
+Feb  9 16:27:06 kernel: station needing HT protection leaving,count 2
+Feb  9 16:29:19 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: associated
+Feb  9 16:29:19 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: pairwise key handshake completed (WPA)
+Feb  9 16:29:19 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: group key handshake completed (WPA)
+Feb  9 16:29:44 kernel: [50:82:d5:94:70:e4]
+Feb  9 16:29:44 kernel: station needing HT protection leaving,count 2
+Feb  9 16:29:44 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (48)
+Feb  9 16:29:44 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: disassociated
+Feb  9 16:30:54 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: associated
+Feb  9 16:30:54 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: pairwise key handshake completed (WPA)
+Feb  9 16:30:54 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: group key handshake completed (WPA)
+Feb  9 16:31:24 kernel: [50:82:d5:94:70:e4]
+Feb  9 16:31:24 kernel: station needing HT protection leaving,count 2
+Feb  9 16:31:24 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (47)
+Feb  9 16:31:24 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: disassociated
+Feb  9 16:31:28 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (65)
+Feb  9 16:31:28 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e IEEE 802.11: disassociated
+Feb  9 16:31:28 kernel: [a4:34:d9:e5:17:4e]
+Feb  9 16:31:28 kernel: station needing HT protection leaving,count 1
+Feb  9 16:31:28 kernel: [00:28:f8:93:a9:ea]
+Feb  9 16:31:28 kernel: station needing HT protection leaving,count 0
+Feb  9 16:31:28 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (47)
+Feb  9 16:31:28 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: disassociated
+Feb  9 14:09:40 kernel: AG7100: pll reg 0x18050014: 0x1a000000  AG7100: cfg_1: 0x7ff0000
+Feb  9 14:09:40 kernel: AG7100: cfg_2: 0xfff
+Feb  9 14:09:40 kernel: AG7100: cfg_3: 0x7803ff
+Feb  9 14:09:40 kernel: AG7100: cfg_4: 0xffff
+Feb  9 14:09:40 kernel: AG7100: cfg_5: 0xfffef
+Feb  9 14:09:40 kernel: AG7100: done cfg2 0x7215 ifctl 0x0 miictrl 0x22 
+Feb  9 14:09:40 kernel: brtrunk: port 1(eth0) entering learning state
+Feb  9 14:09:45 kernel: brtrunk: topology change detected, propagating
+Feb  9 14:09:45 kernel: brtrunk: port 1(eth0) entering forwarding state
+Feb  9 14:16:59 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 14:16:59 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: group key handshake completed (WPA)
+Feb  9 14:23:35 hostapd: wifi0vap0: IEEE 802.11 mode/channel change - Mode: IEEE 802.11g  Channel: 6  Frequency: 2437 MHz
+Feb  9 14:23:36 kernel: [a4:34:d9:e5:17:4e]
+Feb  9 14:23:36 kernel: station needing HT protection leaving,count 1
+Feb  9 14:23:36 kernel: [00:28:f8:93:a9:ea]
+Feb  9 14:23:36 kernel: station needing HT protection leaving,count 0
+Feb  9 14:23:38 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (57)
+Feb  9 14:23:38 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e IEEE 802.11: disassociated
+Feb  9 14:23:38 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (50)
+Feb  9 14:23:38 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: disassociated
+Feb  9 14:23:38 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: associated
+Feb  9 14:23:38 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e IEEE 802.11: associated
+Feb  9 14:23:38 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: pairwise key handshake completed (WPA)
+Feb  9 14:23:38 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: pairwise key handshake completed (WPA)
+Feb  9 14:23:38 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 14:23:38 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: group key handshake completed (WPA)
+Feb  9 14:26:59 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: group key handshake completed (WPA)
+Feb  9 14:26:59 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 14:30:25 hostapd: wifi0vap0: IEEE 802.11 mode/channel change - Mode: IEEE 802.11ng  Channel: 6  Frequency: 2437 MHz
+Feb  9 14:30:27 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (48)
+Feb  9 14:30:27 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: disassociated
+Feb  9 14:30:27 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (59)
+Feb  9 14:30:27 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e IEEE 802.11: disassociated
+Feb  9 14:30:29 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e IEEE 802.11: associated
+Feb  9 14:30:29 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: pairwise key handshake completed (WPA)
+Feb  9 14:30:29 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: group key handshake completed (WPA)
+Feb  9 14:30:32 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: associated
+Feb  9 14:30:32 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: pairwise key handshake completed (WPA)
+Feb  9 14:30:32 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 14:36:42 hostapd: wifi0vap0: STA 40:88:05:b5:df:bc IEEE 802.11: associated
+Feb  9 14:36:42 hostapd: wifi0vap0: STA 40:88:05:b5:df:bc WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:36:43 hostapd: wifi0vap0: STA 40:88:05:b5:df:bc WPA: EAPOL-Key timeout
+Feb  9 14:36:43 hostapd: wifi0vap0: STA 40:88:05:b5:df:bc WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:36:45 hostapd: wifi0vap0: STA 40:88:05:b5:df:bc WPA: EAPOL-Key timeout
+Feb  9 14:36:45 hostapd: wifi0vap0: STA 40:88:05:b5:df:bc WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:36:47 hostapd: wifi0vap0: STA 40:88:05:b5:df:bc WPA: EAPOL-Key timeout
+Feb  9 14:36:47 hostapd: wifi0vap0: STA 40:88:05:b5:df:bc WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:36:49 hostapd: wifi0vap0: STA 40:88:05:b5:df:bc WPA: EAPOL-Key timeout
+Feb  9 14:36:49 hostapd: wifi0vap0: STA 40:88:05:b5:df:bc WPA: authenticator requests disconnect: reason code 2
+Feb  9 14:36:49 hostapd: wifi0vap0: STA 40:88:05:b5:df:bc IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 14:36:49 hostapd: wifi0vap0: STA 40:88:05:b5:df:bc IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (36)
+Feb  9 14:36:49 hostapd: wifi0vap0: STA 40:88:05:b5:df:bc IEEE 802.11: disassociated
+Feb  9 14:36:49 kernel: [40:88:05:b5:df:bc]
+Feb  9 14:36:49 kernel: station needing HT protection leaving,count 2
+Feb  9 14:36:59 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 14:36:59 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: group key handshake completed (WPA)
+Feb  9 14:37:43 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: associated
+Feb  9 14:37:43 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:37:44 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 14:37:44 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:37:46 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 14:37:46 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:37:48 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 14:37:49 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:37:50 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 14:37:50 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: authenticator requests disconnect: reason code 2
+Feb  9 14:37:50 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 14:37:50 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (33)
+Feb  9 14:37:50 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: disassociated
+Feb  9 14:37:50 kernel: [f0:d7:aa:f5:45:34]
+Feb  9 14:37:50 kernel: station needing HT protection leaving,count 2
+Feb  9 14:41:53 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: associated
+Feb  9 14:41:53 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:41:54 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 14:41:54 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:41:56 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 14:41:56 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:41:58 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 14:41:58 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:42:00 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 14:42:00 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: authenticator requests disconnect: reason code 2
+Feb  9 14:42:00 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 14:42:00 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (41)
+Feb  9 14:42:00 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: disassociated
+Feb  9 14:42:00 kernel: [bc:d1:1f:84:95:1c]
+Feb  9 14:42:00 kernel: station needing HT protection leaving,count 2
+Feb  9 14:42:33 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e IEEE 802.11: associated
+Feb  9 14:42:34 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: EAPOL-Key timeout
+Feb  9 14:42:34 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:42:36 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: EAPOL-Key timeout
+Feb  9 14:42:36 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:42:38 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: EAPOL-Key timeout
+Feb  9 14:42:38 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:42:40 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: EAPOL-Key timeout
+Feb  9 14:42:40 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: authenticator requests disconnect: reason code 2
+Feb  9 14:42:40 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 14:42:40 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (23)
+Feb  9 14:42:40 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e IEEE 802.11: disassociated
+Feb  9 14:42:40 kernel: [50:2b:73:d8:2b:8e]
+Feb  9 14:42:40 kernel: station needing HT protection leaving,count 2
+Feb  9 14:42:54 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e IEEE 802.11: associated
+Feb  9 14:42:54 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:42:55 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: EAPOL-Key timeout
+Feb  9 14:42:55 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:42:57 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: EAPOL-Key timeout
+Feb  9 14:42:57 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:42:59 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: EAPOL-Key timeout
+Feb  9 14:42:59 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:43:01 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: EAPOL-Key timeout
+Feb  9 14:43:01 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: authenticator requests disconnect: reason code 2
+Feb  9 14:43:01 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 14:43:01 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (19)
+Feb  9 14:43:01 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e IEEE 802.11: disassociated
+Feb  9 14:43:01 kernel: [50:2b:73:d8:2b:8e]
+Feb  9 14:43:01 kernel: station needing HT protection leaving,count 2
+Feb  9 14:43:22 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e IEEE 802.11: associated
+Feb  9 14:43:22 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:43:23 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: EAPOL-Key timeout
+Feb  9 14:43:23 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:43:25 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: EAPOL-Key timeout
+Feb  9 14:43:25 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:43:27 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: EAPOL-Key timeout
+Feb  9 14:43:29 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: EAPOL-Key timeout
+Feb  9 14:43:29 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: authenticator requests disconnect: reason code 2
+Feb  9 14:43:29 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 14:43:29 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (23)
+Feb  9 14:43:29 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e IEEE 802.11: disassociated
+Feb  9 14:43:29 kernel: [50:2b:73:d8:2b:8e]
+Feb  9 14:43:29 kernel: station needing HT protection leaving,count 2
+Feb  9 14:43:44 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: associated
+Feb  9 14:43:44 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:43:45 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: EAPOL-Key timeout
+Feb  9 14:43:45 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:43:47 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: EAPOL-Key timeout
+Feb  9 14:43:47 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:43:49 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: EAPOL-Key timeout
+Feb  9 14:43:49 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:43:51 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: EAPOL-Key timeout
+Feb  9 14:43:51 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: authenticator requests disconnect: reason code 2
+Feb  9 14:43:51 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 14:43:51 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (26)
+Feb  9 14:43:51 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: disassociated
+Feb  9 14:43:51 kernel: [a4:34:d9:e5:17:76]
+Feb  9 14:43:51 kernel: station needing HT protection leaving,count 2
+Feb  9 14:43:59 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: associated
+Feb  9 14:43:59 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:44:00 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: EAPOL-Key timeout
+Feb  9 14:44:00 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:44:02 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: EAPOL-Key timeout
+Feb  9 14:44:02 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:44:04 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: EAPOL-Key timeout
+Feb  9 14:44:04 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:44:06 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: EAPOL-Key timeout
+Feb  9 14:44:06 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: authenticator requests disconnect: reason code 2
+Feb  9 14:44:06 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 14:44:06 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (32)
+Feb  9 14:44:06 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: disassociated
+Feb  9 14:44:06 kernel: [a4:34:d9:e5:17:76]
+Feb  9 14:44:06 kernel: station needing HT protection leaving,count 2
+Feb  9 14:44:38 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: associated
+Feb  9 14:44:38 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: pairwise key handshake completed (WPA)
+Feb  9 14:44:38 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: group key handshake completed (WPA)
+Feb  9 14:44:58 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: associated
+Feb  9 14:44:58 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:44:59 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 14:44:59 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:45:01 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 14:45:01 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:45:03 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 14:45:03 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:45:04 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e IEEE 802.11: associated
+Feb  9 14:45:04 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: pairwise key handshake completed (WPA)
+Feb  9 14:45:04 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: group key handshake completed (WPA)
+Feb  9 14:45:05 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 14:45:05 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: authenticator requests disconnect: reason code 2
+Feb  9 14:45:05 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 14:45:05 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (53)
+Feb  9 14:45:05 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: disassociated
+Feb  9 14:45:05 kernel: [f0:d7:aa:f5:45:34]
+Feb  9 14:45:05 kernel: station needing HT protection leaving,count 4
+Feb  9 14:46:59 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: group key handshake completed (WPA)
+Feb  9 14:46:59 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: group key handshake completed (WPA)
+Feb  9 14:46:59 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 14:46:59 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: group key handshake completed (WPA)
+Feb  9 14:50:23 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: associated
+Feb  9 14:50:23 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:50:24 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 14:50:24 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:50:26 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 14:50:26 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:50:28 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 14:50:28 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:50:30 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 14:50:30 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: authenticator requests disconnect: reason code 2
+Feb  9 14:50:30 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 14:50:30 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (52)
+Feb  9 14:50:30 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: disassociated
+Feb  9 14:50:30 kernel: [f0:d7:aa:f5:45:34]
+Feb  9 14:50:30 kernel: station needing HT protection leaving,count 4
+Feb  9 14:50:43 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: associated
+Feb  9 14:50:43 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:50:44 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 14:50:44 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:50:46 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 14:50:46 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:50:48 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 14:50:48 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:50:50 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 14:50:50 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: authenticator requests disconnect: reason code 2
+Feb  9 14:50:50 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 14:50:50 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (58)
+Feb  9 14:50:50 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: disassociated
+Feb  9 14:50:50 kernel: [f0:d7:aa:f5:45:34]
+Feb  9 14:50:50 kernel: station needing HT protection leaving,count 4
+Feb  9 14:56:12 kernel: [a4:34:d9:e5:17:4e]
+Feb  9 14:56:12 kernel: station needing HT protection leaving,count 3
+Feb  9 14:56:12 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (57)
+Feb  9 14:56:12 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e IEEE 802.11: disassociated
+Feb  9 14:56:12 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e IEEE 802.11: recvd deauth msg from STA, reason code (6), rssi (0)
+Feb  9 14:56:12 kernel: [00:28:f8:93:a9:ea]
+Feb  9 14:56:12 kernel: station needing HT protection leaving,count 2
+Feb  9 14:56:12 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (50)
+Feb  9 14:56:12 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: disassociated
+Feb  9 14:56:12 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: recvd deauth msg from STA, reason code (6), rssi (0)
+Feb  9 14:56:13 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: associated
+Feb  9 14:56:13 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: pairwise key handshake completed (WPA)
+Feb  9 14:56:13 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 14:56:14 kernel: [a4:34:d9:e5:17:76]
+Feb  9 14:56:14 kernel: station needing HT protection leaving,count 2
+Feb  9 14:56:14 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (24)
+Feb  9 14:56:14 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: disassociated
+Feb  9 14:56:14 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: recvd deauth msg from STA, reason code (6), rssi (0)
+Feb  9 14:56:15 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e IEEE 802.11: associated
+Feb  9 14:56:15 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: pairwise key handshake completed (WPA)
+Feb  9 14:56:15 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: group key handshake completed (WPA)
+Feb  9 14:56:16 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: associated
+Feb  9 14:56:16 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: pairwise key handshake completed (WPA)
+Feb  9 14:56:16 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: group key handshake completed (WPA)
+Feb  9 14:56:34 kernel: [a4:34:d9:e5:17:76]
+Feb  9 14:56:34 kernel: station needing HT protection leaving,count 3
+Feb  9 14:56:34 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (28)
+Feb  9 14:56:34 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: disassociated
+Feb  9 14:56:34 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: recvd deauth msg from STA, reason code (6), rssi (0)
+Feb  9 14:56:35 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: associated
+Feb  9 14:56:35 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: pairwise key handshake completed (WPA)
+Feb  9 14:56:35 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: group key handshake completed (WPA)
+Feb  9 14:56:59 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 14:56:59 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: group key handshake completed (WPA)
+Feb  9 14:56:59 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: group key handshake completed (WPA)
+Feb  9 14:56:59 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: group key handshake completed (WPA)
+Feb  9 14:58:03 hostapd: wifi0vap0: IEEE 802.11 mode/channel change - Mode: IEEE 802.11b  Channel: 1  Frequency: 2412 MHz
+Feb  9 14:58:03 kernel: [50:2b:73:d8:2b:8e]
+Feb  9 14:58:03 kernel: station needing HT protection leaving,count 3
+Feb  9 14:58:03 kernel: [00:28:f8:93:a9:ea]
+Feb  9 14:58:03 kernel: station needing HT protection leaving,count 2
+Feb  9 14:58:03 kernel: [a4:34:d9:e5:17:4e]
+Feb  9 14:58:03 kernel: station needing HT protection leaving,count 1
+Feb  9 14:58:03 kernel: [a4:34:d9:e5:17:76]
+Feb  9 14:58:03 kernel: station needing HT protection leaving,count 0
+Feb  9 14:58:05 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (15)
+Feb  9 14:58:05 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e IEEE 802.11: disassociated
+Feb  9 14:58:05 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (50)
+Feb  9 14:58:05 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: disassociated
+Feb  9 14:58:05 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (55)
+Feb  9 14:58:05 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e IEEE 802.11: disassociated
+Feb  9 14:58:05 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (28)
+Feb  9 14:58:05 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: disassociated
+Feb  9 14:58:05 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e IEEE 802.11: associated
+Feb  9 14:58:05 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (34)
+Feb  9 14:58:05 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e IEEE 802.11: disassociated
+Feb  9 14:58:05 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e IEEE 802.11: associated
+Feb  9 14:58:05 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: associated
+Feb  9 14:58:05 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: pairwise key handshake completed (WPA)
+Feb  9 14:58:05 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: group key handshake completed (WPA)
+Feb  9 14:58:05 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: pairwise key handshake completed (WPA)
+Feb  9 14:58:05 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 14:58:07 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e IEEE 802.11: associated
+Feb  9 14:58:07 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: associated
+Feb  9 14:58:07 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: pairwise key handshake completed (WPA)
+Feb  9 14:58:07 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: group key handshake completed (WPA)
+Feb  9 14:58:08 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: EAPOL-Key timeout
+Feb  9 14:58:08 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: pairwise key handshake completed (WPA)
+Feb  9 14:58:08 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: group key handshake completed (WPA)
+Feb  9 14:58:40 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (51)
+Feb  9 14:58:40 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e IEEE 802.11: disassociated
+Feb  9 14:58:40 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (47)
+Feb  9 14:58:40 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: disassociated
+Feb  9 14:58:40 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (17)
+Feb  9 14:58:40 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e IEEE 802.11: disassociated
+Feb  9 14:58:40 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (23)
+Feb  9 14:58:40 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: disassociated
+Feb  9 14:58:49 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: associated
+Feb  9 14:58:49 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: pairwise key handshake completed (WPA)
+Feb  9 14:58:49 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 14:58:51 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: associated
+Feb  9 14:58:51 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: pairwise key handshake completed (WPA)
+Feb  9 14:58:51 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: group key handshake completed (WPA)
+Feb  9 14:58:52 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e IEEE 802.11: associated
+Feb  9 14:58:52 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: pairwise key handshake completed (WPA)
+Feb  9 14:58:52 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: group key handshake completed (WPA)
+Feb  9 14:59:39 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (48)
+Feb  9 14:59:39 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: disassociated
+Feb  9 14:59:39 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (24)
+Feb  9 14:59:39 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: disassociated
+Feb  9 14:59:39 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (55)
+Feb  9 14:59:39 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e IEEE 802.11: disassociated
+Feb  9 14:59:39 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e IEEE 802.11: associated
+Feb  9 14:59:39 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: pairwise key handshake completed (WPA)
+Feb  9 14:59:39 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: group key handshake completed (WPA)
+Feb  9 14:59:42 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: associated
+Feb  9 14:59:42 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: pairwise key handshake completed (WPA)
+Feb  9 14:59:42 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: group key handshake completed (WPA)
+Feb  9 14:59:46 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: associated
+Feb  9 14:59:46 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: pairwise key handshake completed (WPA)
+Feb  9 14:59:46 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 14:59:57 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e IEEE 802.11: recvd deauth msg from STA, reason code (3), rssi (55)
+Feb  9 14:59:57 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e IEEE 802.11: disassociated
+Feb  9 15:00:40 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: associated
+Feb  9 15:00:40 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 15:00:41 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 15:00:41 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 15:00:43 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 15:00:43 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 15:00:45 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 15:00:45 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 15:00:47 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 15:00:47 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: authenticator requests disconnect: reason code 2
+Feb  9 15:00:47 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 15:00:47 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (50)
+Feb  9 15:00:47 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: disassociated
+Feb  9 15:00:57 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e IEEE 802.11: associated
+Feb  9 15:00:57 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: pairwise key handshake completed (WPA)
+Feb  9 15:00:57 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: group key handshake completed (WPA)
+Feb  9 15:01:05 hostapd: wifi0vap0: IEEE 802.11 mode/channel change - Mode: IEEE 802.11b  Channel: 11  Frequency: 2462 MHz
+Feb  9 15:01:07 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (29)
+Feb  9 15:01:07 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: disassociated
+Feb  9 15:01:07 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (45)
+Feb  9 15:01:07 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: disassociated
+Feb  9 15:01:07 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (55)
+Feb  9 15:01:07 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e IEEE 802.11: disassociated
+Feb  9 15:01:07 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e IEEE 802.11: associated
+Feb  9 15:01:07 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: associated
+Feb  9 15:01:07 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: associated
+Feb  9 15:01:07 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: pairwise key handshake completed (WPA)
+Feb  9 15:01:07 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: pairwise key handshake completed (WPA)
+Feb  9 15:01:07 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: group key handshake completed (WPA)
+Feb  9 15:01:07 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 15:01:08 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: EAPOL-Key timeout
+Feb  9 15:01:08 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: pairwise key handshake completed (WPA)
+Feb  9 15:01:08 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: group key handshake completed (WPA)
+Feb  9 15:01:10 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e IEEE 802.11: associated
+Feb  9 15:01:11 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: EAPOL-Key timeout
+Feb  9 15:01:11 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: pairwise key handshake completed (WPA)
+Feb  9 15:01:11 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: group key handshake completed (WPA)
+Feb  9 15:02:08 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: associated
+Feb  9 15:02:08 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 15:02:09 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 15:02:09 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 15:02:11 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 15:02:11 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 15:02:13 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 15:02:13 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 15:02:15 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 15:02:15 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: authenticator requests disconnect: reason code 2
+Feb  9 15:02:15 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 15:02:15 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (25)
+Feb  9 15:02:15 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: disassociated
+Feb  9 15:02:29 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: associated
+Feb  9 15:02:29 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: pairwise key handshake completed (WPA)
+Feb  9 15:02:29 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: group key handshake completed (WPA)
+Feb  9 15:02:30 hostapd: wifi0vap0: IEEE 802.11 mode/channel change - Mode: IEEE 802.11g  Channel: 11  Frequency: 2462 MHz
+Feb  9 15:02:32 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (59)
+Feb  9 15:02:32 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e IEEE 802.11: disassociated
+Feb  9 15:02:32 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (51)
+Feb  9 15:02:32 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: disassociated
+Feb  9 15:02:32 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (29)
+Feb  9 15:02:32 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: disassociated
+Feb  9 15:02:32 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (16)
+Feb  9 15:02:32 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e IEEE 802.11: disassociated
+Feb  9 15:02:32 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (26)
+Feb  9 15:02:32 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: disassociated
+Feb  9 15:02:32 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: associated
+Feb  9 15:02:32 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: pairwise key handshake completed (WPA)
+Feb  9 15:02:32 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: group key handshake completed (WPA)
+Feb  9 15:02:36 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e IEEE 802.11: associated
+Feb  9 15:02:36 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: pairwise key handshake completed (WPA)
+Feb  9 15:02:36 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: group key handshake completed (WPA)
+Feb  9 15:02:37 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: associated
+Feb  9 15:02:37 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: pairwise key handshake completed (WPA)
+Feb  9 15:02:37 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 15:02:40 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: associated
+Feb  9 15:02:41 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: EAPOL-Key timeout
+Feb  9 15:02:41 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: pairwise key handshake completed (WPA)
+Feb  9 15:02:41 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: group key handshake completed (WPA)
+Feb  9 15:03:09 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e IEEE 802.11: recvd deauth msg from STA, reason code (3), rssi (61)
+Feb  9 15:03:09 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e IEEE 802.11: disassociated
+Feb  9 15:06:59 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 15:06:59 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: group key handshake completed (WPA)
+Feb  9 15:07:00 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 15:07:02 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 15:07:04 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 15:07:06 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 15:07:06 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: authenticator requests disconnect: reason code 2
+Feb  9 15:07:06 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 15:07:06 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (25)
+Feb  9 15:07:06 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: disassociated
+Feb  9 15:07:30 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: associated
+Feb  9 15:07:30 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 15:07:31 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 15:07:31 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 15:07:33 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 IEEE 802.11: associated
+Feb  9 15:07:33 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 15:07:33 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 15:07:34 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 WPA: EAPOL-Key timeout
+Feb  9 15:07:34 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 15:07:34 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 IEEE 802.11: recvd deauth msg from STA, reason code (3), rssi (52)
+Feb  9 15:07:34 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 IEEE 802.11: disassociated
+Feb  9 15:07:35 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 15:07:35 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 15:07:37 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 15:07:37 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: authenticator requests disconnect: reason code 2
+Feb  9 15:07:37 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 15:07:37 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (53)
+Feb  9 15:07:37 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: disassociated
+Feb  9 15:09:24 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 IEEE 802.11: associated
+Feb  9 15:09:24 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 15:09:25 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 WPA: EAPOL-Key timeout
+Feb  9 15:09:25 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 15:09:26 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 IEEE 802.11: recvd deauth msg from STA, reason code (3), rssi (52)
+Feb  9 15:09:26 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 IEEE 802.11: disassociated
+Feb  9 15:12:44 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: associated
+Feb  9 15:12:44 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 15:12:45 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 15:12:45 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 15:12:45 hostapd: wifi0vap0: STA 14:cc:20:1a:0a:4a IEEE 802.11: associated
+Feb  9 15:12:46 hostapd: wifi0vap0: STA 14:cc:20:1a:0a:4a WPA: EAPOL-Key timeout
+Feb  9 15:12:47 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 15:12:47 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 15:12:48 hostapd: wifi0vap0: STA 14:cc:20:1a:0a:4a WPA: EAPOL-Key timeout
+Feb  9 15:12:49 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 15:12:49 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 15:12:50 hostapd: wifi0vap0: STA 14:cc:20:1a:0a:4a WPA: EAPOL-Key timeout
+Feb  9 15:12:50 hostapd: wifi0vap0: STA 14:cc:20:1a:0a:4a WPA: pairwise key handshake completed (WPA)
+Feb  9 15:12:50 hostapd: wifi0vap0: STA 14:cc:20:1a:0a:4a WPA: group key handshake completed (WPA)
+Feb  9 15:12:51 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 15:12:51 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: authenticator requests disconnect: reason code 2
+Feb  9 15:12:51 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 15:12:51 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (54)
+Feb  9 15:12:51 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: disassociated
+Feb  9 15:13:32 hostapd: wifi0vap0: IEEE 802.11 mode/channel change - Mode: IEEE 802.11g  Channel: 1  Frequency: 2412 MHz
+Feb  9 15:13:34 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (51)
+Feb  9 15:13:34 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: disassociated
+Feb  9 15:13:34 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (31)
+Feb  9 15:13:34 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: disassociated
+Feb  9 15:13:34 hostapd: wifi0vap0: STA 14:cc:20:1a:0a:4a IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (27)
+Feb  9 15:13:34 hostapd: wifi0vap0: STA 14:cc:20:1a:0a:4a IEEE 802.11: disassociated
+Feb  9 15:13:34 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: associated
+Feb  9 15:13:34 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: pairwise key handshake completed (WPA)
+Feb  9 15:13:34 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 15:13:34 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: associated
+Feb  9 15:13:35 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: EAPOL-Key timeout
+Feb  9 15:13:35 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: pairwise key handshake completed (WPA)
+Feb  9 15:13:35 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: group key handshake completed (WPA)
+Feb  9 15:14:34 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: associated
+Feb  9 15:14:34 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: pairwise key handshake completed (WPA)
+Feb  9 15:14:34 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: group key handshake completed (WPA)
+Feb  9 15:15:25 hostapd: wifi0vap0: IEEE 802.11 mode/channel change - Mode: IEEE 802.11b  Channel: 1  Frequency: 2412 MHz
+Feb  9 15:15:27 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (47)
+Feb  9 15:15:27 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: disassociated
+Feb  9 15:15:27 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (26)
+Feb  9 15:15:28 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: disassociated
+Feb  9 15:15:28 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (23)
+Feb  9 15:15:28 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: disassociated
+Feb  9 15:15:33 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: associated
+Feb  9 15:15:33 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: pairwise key handshake completed (WPA)
+Feb  9 15:15:33 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: group key handshake completed (WPA)
+Feb  9 15:15:43 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: associated
+Feb  9 15:15:43 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: pairwise key handshake completed (WPA)
+Feb  9 15:15:43 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 15:15:47 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: associated
+Feb  9 15:15:47 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: pairwise key handshake completed (WPA)
+Feb  9 15:15:47 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: group key handshake completed (WPA)
+Feb  9 15:16:59 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 15:16:59 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: group key handshake completed (WPA)
+Feb  9 15:16:59 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: group key handshake completed (WPA)
+Feb  9 15:17:08 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (22)
+Feb  9 15:17:08 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: disassociated
+Feb  9 15:17:08 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (47)
+Feb  9 15:17:08 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: disassociated
+Feb  9 15:17:08 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (29)
+Feb  9 15:17:08 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: disassociated
+Feb  9 15:17:08 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: associated
+Feb  9 15:17:08 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: associated
+Feb  9 15:17:08 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: pairwise key handshake completed (WPA)
+Feb  9 15:17:08 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 15:17:09 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: EAPOL-Key timeout
+Feb  9 15:17:09 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: pairwise key handshake completed (WPA)
+Feb  9 15:17:09 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: group key handshake completed (WPA)
+Feb  9 15:17:23 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: associated
+Feb  9 15:17:23 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: pairwise key handshake completed (WPA)
+Feb  9 15:17:23 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: group key handshake completed (WPA)
+Feb  9 15:18:26 hostapd: wifi0vap0: IEEE 802.11 mode/channel change - Mode: IEEE 802.11g  Channel: 9  Frequency: 2452 MHz
+Feb  9 15:18:28 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (47)
+Feb  9 15:18:28 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: disassociated
+Feb  9 15:18:28 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (25)
+Feb  9 15:18:28 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: disassociated
+Feb  9 15:18:28 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (28)
+Feb  9 15:18:28 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: disassociated
+Feb  9 15:18:28 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: associated
+Feb  9 15:18:28 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: associated
+Feb  9 15:18:28 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: pairwise key handshake completed (WPA)
+Feb  9 15:18:28 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: pairwise key handshake completed (WPA)
+Feb  9 15:18:28 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 15:18:28 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: group key handshake completed (WPA)
+Feb  9 15:18:34 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: associated
+Feb  9 15:18:34 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: pairwise key handshake completed (WPA)
+Feb  9 15:18:34 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: group key handshake completed (WPA)
+Feb  9 15:19:28 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: recvd deauth msg from STA, reason code (3), rssi (21)
+Feb  9 15:19:28 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: disassociated
+Feb  9 15:19:33 hostapd: wifi0vap0: STA 14:cc:20:1a:0a:4a IEEE 802.11: associated
+Feb  9 15:19:33 hostapd: wifi0vap0: STA 14:cc:20:1a:0a:4a WPA: pairwise key handshake completed (WPA)
+Feb  9 15:19:33 hostapd: wifi0vap0: STA 14:cc:20:1a:0a:4a WPA: group key handshake completed (WPA)
+Feb  9 15:19:34 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: associated
+Feb  9 15:19:34 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: pairwise key handshake completed (WPA)
+Feb  9 15:19:34 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: group key handshake completed (WPA)
+Feb  9 15:19:38 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 IEEE 802.11: associated
+Feb  9 15:19:38 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 WPA: pairwise key handshake completed (WPA)
+Feb  9 15:19:38 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 WPA: group key handshake completed (WPA)
+Feb  9 15:20:05 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (52)
+Feb  9 15:20:05 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: disassociated
+Feb  9 15:20:05 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (30)
+Feb  9 15:20:05 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: disassociated
+Feb  9 15:20:05 hostapd: wifi0vap0: STA 14:cc:20:1a:0a:4a IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (33)
+Feb  9 15:20:05 hostapd: wifi0vap0: STA 14:cc:20:1a:0a:4a IEEE 802.11: disassociated
+Feb  9 15:20:05 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (31)
+Feb  9 15:20:05 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: disassociated
+Feb  9 15:20:05 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (29)
+Feb  9 15:20:05 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 IEEE 802.11: disassociated
+Feb  9 15:20:05 hostapd: wifi0vap0: STA 14:cc:20:1a:0a:4a IEEE 802.11: associated
+Feb  9 15:20:05 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: associated
+Feb  9 15:20:06 hostapd: wifi0vap0: STA 14:cc:20:1a:0a:4a WPA: EAPOL-Key timeout
+Feb  9 15:20:06 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: EAPOL-Key timeout
+Feb  9 15:20:06 hostapd: wifi0vap0: STA 14:cc:20:1a:0a:4a WPA: pairwise key handshake completed (WPA)
+Feb  9 15:20:06 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: pairwise key handshake completed (WPA)
+Feb  9 15:20:06 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: group key handshake completed (WPA)
+Feb  9 15:20:06 hostapd: wifi0vap0: STA 14:cc:20:1a:0a:4a WPA: group key handshake completed (WPA)
+Feb  9 15:20:07 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 IEEE 802.11: associated
+Feb  9 15:20:07 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: associated
+Feb  9 15:20:07 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 WPA: pairwise key handshake completed (WPA)
+Feb  9 15:20:08 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 WPA: group key handshake completed (WPA)
+Feb  9 15:20:08 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: pairwise key handshake completed (WPA)
+Feb  9 15:20:08 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 15:20:18 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: associated
+Feb  9 15:20:18 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: pairwise key handshake completed (WPA)
+Feb  9 15:20:19 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: group key handshake completed (WPA)
+Feb  9 15:24:16 hostapd: wifi0vap0: IEEE 802.11 mode/channel change - Mode: IEEE 802.11g  Channel: 3  Frequency: 2422 MHz
+Feb  9 15:24:18 hostapd: wifi0vap0: STA 14:cc:20:1a:0a:4a IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (27)
+Feb  9 15:24:18 hostapd: wifi0vap0: STA 14:cc:20:1a:0a:4a IEEE 802.11: disassociated
+Feb  9 15:24:18 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (30)
+Feb  9 15:24:18 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: disassociated
+Feb  9 15:24:18 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (27)
+Feb  9 15:24:18 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 IEEE 802.11: disassociated
+Feb  9 15:24:18 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (52)
+Feb  9 15:24:18 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: disassociated
+Feb  9 15:24:18 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (32)
+Feb  9 15:24:18 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: disassociated
+Feb  9 15:24:18 hostapd: wifi0vap0: STA 14:cc:20:1a:0a:4a IEEE 802.11: associated
+Feb  9 15:24:18 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: associated
+Feb  9 15:24:18 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: pairwise key handshake completed (WPA)
+Feb  9 15:24:18 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: group key handshake completed (WPA)
+Feb  9 15:24:19 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: associated
+Feb  9 15:24:19 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: pairwise key handshake completed (WPA)
+Feb  9 15:24:19 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 15:24:19 hostapd: wifi0vap0: STA 14:cc:20:1a:0a:4a WPA: EAPOL-Key timeout
+Feb  9 15:24:19 hostapd: wifi0vap0: STA 14:cc:20:1a:0a:4a WPA: pairwise key handshake completed (WPA)
+Feb  9 15:24:20 hostapd: wifi0vap0: STA 14:cc:20:1a:0a:4a WPA: EAPOL-Key timeout
+Feb  9 15:24:20 hostapd: wifi0vap0: STA 14:cc:20:1a:0a:4a WPA: group key handshake completed (WPA)
+Feb  9 15:24:20 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: associated
+Feb  9 15:24:20 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: pairwise key handshake completed (WPA)
+Feb  9 15:24:20 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: group key handshake completed (WPA)
+Feb  9 15:24:33 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 IEEE 802.11: associated
+Feb  9 15:24:33 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 WPA: pairwise key handshake completed (WPA)
+Feb  9 15:24:33 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 WPA: group key handshake completed (WPA)
+Feb  9 15:25:07 hostapd: wifi0vap0: IEEE 802.11 mode/channel change - Mode: IEEE 802.11g  Channel: 6  Frequency: 2437 MHz
+Feb  9 15:25:09 hostapd: wifi0vap0: STA 14:cc:20:1a:0a:4a IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (28)
+Feb  9 15:25:09 hostapd: wifi0vap0: STA 14:cc:20:1a:0a:4a IEEE 802.11: disassociated
+Feb  9 15:25:09 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (21)
+Feb  9 15:25:09 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: disassociated
+Feb  9 15:25:09 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (51)
+Feb  9 15:25:09 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: disassociated
+Feb  9 15:25:09 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (26)
+Feb  9 15:25:09 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: disassociated
+Feb  9 15:25:09 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (33)
+Feb  9 15:25:09 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 IEEE 802.11: disassociated
+Feb  9 15:25:09 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: associated
+Feb  9 15:25:09 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: pairwise key handshake completed (WPA)
+Feb  9 15:25:09 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: group key handshake completed (WPA)
+Feb  9 15:25:09 hostapd: wifi0vap0: STA 14:cc:20:1a:0a:4a IEEE 802.11: associated
+Feb  9 15:25:09 hostapd: wifi0vap0: STA 14:cc:20:1a:0a:4a WPA: pairwise key handshake completed (WPA)
+Feb  9 15:25:09 hostapd: wifi0vap0: STA 14:cc:20:1a:0a:4a WPA: group key handshake completed (WPA)
+Feb  9 15:25:09 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: associated
+Feb  9 15:25:09 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: pairwise key handshake completed (WPA)
+Feb  9 15:25:09 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 15:25:09 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: associated
+Feb  9 15:25:09 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: pairwise key handshake completed (WPA)
+Feb  9 15:25:09 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: group key handshake completed (WPA)
+Feb  9 15:25:11 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 IEEE 802.11: associated
+Feb  9 15:25:12 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 WPA: EAPOL-Key timeout
+Feb  9 15:25:14 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 WPA: EAPOL-Key timeout
+Feb  9 15:25:16 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 WPA: EAPOL-Key timeout
+Feb  9 15:25:16 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 WPA: pairwise key handshake completed (WPA)
+Feb  9 15:25:16 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 WPA: group key handshake completed (WPA)
+Feb  9 15:25:53 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e IEEE 802.11: associated
+Feb  9 15:25:53 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: pairwise key handshake completed (WPA)
+Feb  9 15:25:53 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: group key handshake completed (WPA)
+Feb  9 15:26:50 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 IEEE 802.11: associated
+Feb  9 15:26:51 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 WPA: EAPOL-Key timeout
+Feb  9 15:26:51 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 15:26:53 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 IEEE 802.11: recvd deauth msg from STA, reason code (3), rssi (48)
+Feb  9 15:26:53 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 IEEE 802.11: disassociated
+Feb  9 15:26:59 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: group key handshake completed (WPA)
+Feb  9 15:26:59 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 WPA: group key handshake completed (WPA)
+Feb  9 15:26:59 hostapd: wifi0vap0: STA 14:cc:20:1a:0a:4a WPA: group key handshake completed (WPA)
+Feb  9 15:26:59 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 15:26:59 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: group key handshake completed (WPA)
+Feb  9 15:26:59 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: group key handshake completed (WPA)
+Feb  9 15:35:27 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 IEEE 802.11: associated
+Feb  9 15:35:27 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 WPA: pairwise key handshake completed (WPA)
+Feb  9 15:35:27 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 WPA: group key handshake completed (WPA)
+Feb  9 15:36:13 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: associated
+Feb  9 15:36:13 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: pairwise key handshake completed (WPA)
+Feb  9 15:36:13 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: group key handshake completed (WPA)
+Feb  9 15:36:44 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (9)
+Feb  9 15:36:44 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: disassociated
+Feb  9 15:36:59 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 WPA: group key handshake completed (WPA)
+Feb  9 15:36:59 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: group key handshake completed (WPA)
+Feb  9 15:36:59 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: group key handshake completed (WPA)
+Feb  9 15:36:59 hostapd: wifi0vap0: STA 14:cc:20:1a:0a:4a WPA: group key handshake completed (WPA)
+Feb  9 15:36:59 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 WPA: group key handshake completed (WPA)
+Feb  9 15:36:59 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 15:36:59 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: group key handshake completed (WPA)
+Feb  9 15:37:07 hostapd: wifi0vap0: STA 7c:78:7e:71:99:59 IEEE 802.11: associated
+Feb  9 15:37:07 hostapd: wifi0vap0: STA 7c:78:7e:71:99:59 WPA: pairwise key handshake completed (WPA)
+Feb  9 15:37:07 hostapd: wifi0vap0: STA 7c:78:7e:71:99:59 WPA: group key handshake completed (WPA)
+Feb  9 15:38:26 hostapd: wifi0vap0: IEEE 802.11 mode/channel change - Mode: IEEE 802.11ng  Channel: 11  Frequency: 2462 MHz
+Feb  9 15:38:28 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (26)
+Feb  9 15:38:28 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: disassociated
+Feb  9 15:38:28 hostapd: wifi0vap0: STA 14:cc:20:1a:0a:4a IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (26)
+Feb  9 15:38:28 hostapd: wifi0vap0: STA 14:cc:20:1a:0a:4a IEEE 802.11: disassociated
+Feb  9 15:38:28 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (48)
+Feb  9 15:38:28 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: disassociated
+Feb  9 15:38:28 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (26)
+Feb  9 15:38:28 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: disassociated
+Feb  9 15:38:28 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (30)
+Feb  9 15:38:28 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 IEEE 802.11: disassociated
+Feb  9 15:38:28 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (23)
+Feb  9 15:38:28 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e IEEE 802.11: disassociated
+Feb  9 15:38:28 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (22)
+Feb  9 15:38:28 hostapd: wifi0vap0: STA bc:2f:3d:3f:1a:60 IEEE 802.11: disassociated
+Feb  9 15:38:28 hostapd: wifi0vap0: STA 7c:78:7e:71:99:59 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (32)
+Feb  9 15:38:28 hostapd: wifi0vap0: STA 7c:78:7e:71:99:59 IEEE 802.11: disassociated
+Feb  9 15:38:28 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 IEEE 802.11: associated
+Feb  9 15:38:28 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: pairwise key handshake completed (WPA)
+Feb  9 15:38:28 hostapd: wifi0vap0: STA a4:34:d9:e5:17:76 WPA: group key handshake completed (WPA)
+Feb  9 15:38:28 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: associated
+Feb  9 15:38:29 hostapd: wifi0vap0: STA 7c:78:7e:71:99:59 IEEE 802.11: associated
+Feb  9 15:38:29 hostapd: wifi0vap0: STA 7c:78:7e:71:99:59 WPA: pairwise key handshake completed (WPA)
+Feb  9 15:38:29 hostapd: wifi0vap0: STA 7c:78:7e:71:99:59 WPA: group key handshake completed (WPA)
+Feb  9 15:38:29 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: EAPOL-Key timeout
+Feb  9 15:38:30 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 IEEE 802.11: associated
+Feb  9 15:38:30 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: EAPOL-Key timeout
+Feb  9 15:38:30 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: associated
+Feb  9 15:38:30 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: pairwise key handshake completed (WPA)
+Feb  9 15:38:30 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 15:38:31 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 WPA: EAPOL-Key timeout
+Feb  9 15:38:31 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e IEEE 802.11: associated
+Feb  9 15:38:32 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: EAPOL-Key timeout
+Feb  9 15:38:32 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: pairwise key handshake completed (WPA)
+Feb  9 15:38:32 hostapd: wifi0vap0: STA 50:2b:73:d8:2b:8e WPA: group key handshake completed (WPA)
+Feb  9 15:38:32 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: EAPOL-Key timeout
+Feb  9 15:38:33 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 WPA: EAPOL-Key timeout
+Feb  9 15:38:33 kernel: 
+Feb  9 15:38:33 kernel: wbuf_tx_complete:droping eapol frame for station 60:6d:c7:8c:4e:72 (TXERROR)
+Feb  9 15:38:34 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: EAPOL-Key timeout
+Feb  9 15:38:35 hostapd: wifi0vap0: STA 60:6d:c7:8c:4e:72 WPA: EAPOL-Key timeout
+Feb  9 15:38:36 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: EAPOL-Key timeout
+Feb  9 15:38:36 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba WPA: authenticator requests disconnect: reason code 2
+Feb  9 15:38:36 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 15:38:36 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (31)
+Feb  9 15:38:36 hostapd: wifi0vap0: STA a4:34:d9:e5:3c:ba IEEE 802.11: disassociated
+FW Version WNAP210_V3.7.9.0
+Config Version 4.0
+CMAPD Version: 1710.07.0035.50
+Oct  9 17:31:55 kernel: brtrunk: topology change detected, propagating
+Oct  9 17:31:55 kernel: brtrunk: port 10(wifi0wds0) entering forwarding state
+Oct  9 17:35:07 root: Unable to update NTP date from 'time-b.netgear.com' server.
+Oct  9 17:38:07 root: Unable to update NTP date from 'pool.ntp.org' server.
+Oct  9 17:41:07 root: Unable to update NTP date from 'time.nist.gov' server.
+Oct  9 17:44:37 root: Unable to update NTP date from 'time-b.netgear.com' server.
+Oct  9 17:47:37 root: Unable to update NTP date from 'pool.ntp.org' server.
+Oct  9 17:50:37 root: Unable to update NTP date from 'time.nist.gov' server.
+Oct  9 17:54:07 root: Unable to update NTP date from 'time-b.netgear.com' server.
+Oct  9 17:57:07 root: Unable to update NTP date from 'pool.ntp.org' server.
+Oct  9 18:00:07 root: Unable to update NTP date from 'time.nist.gov' server.
+Oct  9 18:03:37 root: Unable to update NTP date from 'time-b.netgear.com' server.
+Oct  9 18:06:37 root: Unable to update NTP date from 'pool.ntp.org' server.
+Oct  9 18:09:37 root: Unable to update NTP date from 'time.nist.gov' server.
+Oct  9 18:13:07 root: Unable to update NTP date from 'time-b.netgear.com' server.
+Oct  9 18:16:07 root: Unable to update NTP date from 'pool.ntp.org' server.
+Oct  9 18:19:07 root: Unable to update NTP date from 'time.nist.gov' server.
+Oct  9 18:22:37 root: Unable to update NTP date from 'time-b.netgear.com' server.
+Oct  9 18:25:37 root: Unable to update NTP date from 'pool.ntp.org' server.
+Oct  9 18:28:37 root: Unable to update NTP date from 'time.nist.gov' server.
+Oct  9 18:32:07 root: Unable to update NTP date from 'time-b.netgear.com' server.
+Oct  9 18:35:08 root: Unable to update NTP date from 'pool.ntp.org' server.
+Oct  9 18:38:08 root: Unable to update NTP date from 'time.nist.gov' server.
+Oct  9 18:41:38 root: Unable to update NTP date from 'time-b.netgear.com' server.
+Oct  9 18:44:38 root: Unable to update NTP date from 'pool.ntp.org' server.
+Oct  9 18:47:38 root: Unable to update NTP date from 'time.nist.gov' server.
+Oct  9 18:51:08 root: Unable to update NTP date from 'time-b.netgear.com' server.
+Oct  9 18:54:08 root: Unable to update NTP date from 'pool.ntp.org' server.
+Oct  9 18:57:08 root: Unable to update NTP date from 'time.nist.gov' server.
+Oct  9 19:00:38 root: Unable to update NTP date from 'time-b.netgear.com' server.
+Oct  9 19:03:38 root: Unable to update NTP date from 'pool.ntp.org' server.
+Oct  9 19:06:38 root: Unable to update NTP date from 'time.nist.gov' server.
+Oct  9 19:10:08 root: Unable to update NTP date from 'time-b.netgear.com' server.
+Oct  9 19:13:08 root: Unable to update NTP date from 'pool.ntp.org' server.
+Oct  9 19:15:59 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: associated
+Oct  9 19:15:59 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Oct  9 19:16:00 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Oct  9 19:16:00 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Oct  9 19:16:02 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Oct  9 19:16:02 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Oct  9 19:16:04 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Oct  9 19:16:04 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Oct  9 19:16:06 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Oct  9 19:16:06 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: authenticator requests disconnect: reason code 2
+Oct  9 19:16:06 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: deauthenticated due to local deauth request
+Oct  9 19:16:06 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (58)
+Oct  9 19:16:06 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: disassociated
+Oct  9 19:16:06 kernel: [f0:d7:aa:f5:45:34]
+Oct  9 19:16:06 kernel: station needing HT protection leaving,count 0
+Oct  9 19:16:08 root: Unable to update NTP date from 'time.nist.gov' server.
+Oct  9 19:16:16 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: associated
+Oct  9 19:16:16 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Oct  9 19:16:17 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Oct  9 19:16:17 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Oct  9 19:16:19 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Oct  9 19:16:19 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Oct  9 19:16:21 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Oct  9 19:16:21 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Oct  9 19:16:23 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Oct  9 19:16:23 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: authenticator requests disconnect: reason code 2
+Oct  9 19:16:23 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: deauthenticated due to local deauth request
+Oct  9 19:16:23 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (57)
+Oct  9 19:16:23 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: disassociated
+Oct  9 19:16:23 kernel: [f0:d7:aa:f5:45:34]
+Oct  9 19:16:23 kernel: station needing HT protection leaving,count 0
+Oct  9 19:19:38 root: Unable to update NTP date from 'time-b.netgear.com' server.
+Oct  9 19:22:38 root: Unable to update NTP date from 'pool.ntp.org' server.
+Oct  9 19:25:38 root: Unable to update NTP date from 'time.nist.gov' server.
+Oct  9 19:29:08 root: Unable to update NTP date from 'time-b.netgear.com' server.
+Oct  9 19:29:24 kernel: VSC8601: unit 0  phy_addr 1
+Oct  9 19:29:24 kernel: AG7100: unit 0 phy is up...RGMii 1000Mbps full duplex
+Oct  9 19:29:24 kernel: AG7100: pll reg 0x18050014: 0x1a000000  AG7100: cfg_1: 0x7ff0000
+Oct  9 19:29:24 kernel: AG7100: cfg_2: 0xfff
+Oct  9 19:29:24 kernel: AG7100: cfg_3: 0x7803ff
+Oct  9 19:29:24 kernel: AG7100: cfg_4: 0xffff
+Oct  9 19:29:24 kernel: AG7100: cfg_5: 0xfffef
+Oct  9 19:29:24 kernel: AG7100: done cfg2 0x7215 ifctl 0x0 miictrl 0x22 
+Oct  9 19:29:24 kernel: brtrunk: port 1(eth0) entering learning state
+Oct  9 19:29:29 kernel: brtrunk: topology change detected, propagating
+Oct  9 19:29:29 kernel: brtrunk: port 1(eth0) entering forwarding state
+Feb  9 10:43:09 hostapd: wifi0vap0: STA 78:02:f8:81:ab:9d IEEE 802.11: associated
+Feb  9 10:43:10 hostapd: wifi0vap0: STA 78:02:f8:81:ab:9d WPA: pairwise key handshake completed (WPA)
+Feb  9 10:43:10 hostapd: wifi0vap0: STA 78:02:f8:81:ab:9d WPA: group key handshake completed (WPA)
+Feb  9 10:43:13 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 IEEE 802.11: associated
+Feb  9 10:43:14 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 10:43:14 kernel: [00:ec:0a:34:74:01]
+Feb  9 10:43:14 kernel: station needing HT protection leaving,count 1
+Feb  9 10:43:14 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 IEEE 802.11: recvd deauth msg from STA, reason code (3), rssi (54)
+Feb  9 10:43:14 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 IEEE 802.11: disassociated
+Feb  9 10:43:47 kernel: [78:02:f8:81:ab:9d]
+Feb  9 10:43:47 kernel: station needing HT protection leaving,count 0
+Feb  9 10:43:47 hostapd: wifi0vap0: STA 78:02:f8:81:ab:9d IEEE 802.11: recvd deauth msg from STA, reason code (3), rssi (55)
+Feb  9 10:43:47 hostapd: wifi0vap0: STA 78:02:f8:81:ab:9d IEEE 802.11: disassociated
+Feb  9 10:43:58 hostapd: wifi0vap0: STA 78:02:f8:81:ab:9d IEEE 802.11: associated
+Feb  9 10:43:58 hostapd: wifi0vap0: STA 78:02:f8:81:ab:9d WPA: pairwise key handshake completed (WPA)
+Feb  9 10:43:58 hostapd: wifi0vap0: STA 78:02:f8:81:ab:9d WPA: group key handshake completed (WPA)
+Feb  9 10:44:10 kernel: [78:02:f8:81:ab:9d]
+Feb  9 10:44:10 kernel: station needing HT protection leaving,count 0
+Feb  9 10:44:10 hostapd: wifi0vap0: STA 78:02:f8:81:ab:9d IEEE 802.11: recvd deauth msg from STA, reason code (3), rssi (52)
+Feb  9 10:44:10 hostapd: wifi0vap0: STA 78:02:f8:81:ab:9d IEEE 802.11: disassociated
+Feb  9 10:54:20 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: associated
+Feb  9 10:54:20 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 10:54:21 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 10:54:21 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 10:54:23 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 10:54:23 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 10:54:25 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 10:54:26 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 10:54:27 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 10:54:27 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: authenticator requests disconnect: reason code 2
+Feb  9 10:54:27 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 10:54:27 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (58)
+Feb  9 10:54:27 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: disassociated
+Feb  9 10:54:27 kernel: [f0:d7:aa:f5:45:34]
+Feb  9 10:54:27 kernel: station needing HT protection leaving,count 0
+Feb  9 10:54:39 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: associated
+Feb  9 10:54:39 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 10:54:40 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 10:54:40 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 10:54:42 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 10:54:42 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 10:54:44 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 10:54:44 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 10:54:46 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 10:54:46 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: authenticator requests disconnect: reason code 2
+Feb  9 10:54:46 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 10:54:46 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (50)
+Feb  9 10:54:46 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: disassociated
+Feb  9 10:54:46 kernel: [f0:d7:aa:f5:45:34]
+Feb  9 10:54:46 kernel: station needing HT protection leaving,count 0
+Feb  9 11:01:19 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: associated
+Feb  9 11:01:19 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:01:20 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 11:01:20 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:01:22 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 11:01:22 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:01:24 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 11:01:24 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:01:26 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 11:01:26 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: authenticator requests disconnect: reason code 2
+Feb  9 11:01:26 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 11:01:26 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (54)
+Feb  9 11:01:26 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: disassociated
+Feb  9 11:01:26 kernel: [f0:d7:aa:f5:45:34]
+Feb  9 11:01:26 kernel: station needing HT protection leaving,count 0
+Feb  9 11:02:08 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: associated
+Feb  9 11:02:08 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: pairwise key handshake completed (WPA)
+Feb  9 11:02:08 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: group key handshake completed (WPA)
+Feb  9 11:07:00 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: EAPOL-Key timeout
+Feb  9 11:07:02 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: EAPOL-Key timeout
+Feb  9 11:07:03 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: received EAPOL-Key 2/2 Group with unexpected replay counter
+Feb  9 11:07:03 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: group key handshake completed (WPA)
+Feb  9 11:07:48 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 IEEE 802.11: associated
+Feb  9 11:07:48 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:07:49 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 WPA: EAPOL-Key timeout
+Feb  9 11:07:49 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:07:51 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 WPA: EAPOL-Key timeout
+Feb  9 11:07:51 kernel: 
+Feb  9 11:07:51 kernel: wbuf_tx_complete:droping eapol frame for station 00:ec:0a:34:74:01 (TXERROR)
+Feb  9 11:07:53 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 WPA: EAPOL-Key timeout
+Feb  9 11:07:53 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:07:55 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 WPA: EAPOL-Key timeout
+Feb  9 11:07:55 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 WPA: authenticator requests disconnect: reason code 2
+Feb  9 11:07:55 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 11:07:55 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (44)
+Feb  9 11:07:55 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 IEEE 802.11: disassociated
+Feb  9 11:07:55 kernel: [00:ec:0a:34:74:01]
+Feb  9 11:07:55 kernel: station needing HT protection leaving,count 1
+Feb  9 11:08:06 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: associated
+Feb  9 11:08:06 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:08:07 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 11:08:07 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:08:09 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 11:08:09 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:08:11 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 11:08:11 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:08:13 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 11:08:13 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: authenticator requests disconnect: reason code 2
+Feb  9 11:08:13 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 11:08:13 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (56)
+Feb  9 11:08:13 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: disassociated
+Feb  9 11:08:13 kernel: [f0:d7:aa:f5:45:34]
+Feb  9 11:08:13 kernel: station needing HT protection leaving,count 1
+Feb  9 11:08:33 kernel: [50:82:d5:94:70:e4]
+Feb  9 11:08:33 kernel: station needing HT protection leaving,count 0
+Feb  9 11:08:33 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (19)
+Feb  9 11:08:33 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: disassociated
+Feb  9 11:13:54 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: associated
+Feb  9 11:13:54 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:13:55 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 11:13:55 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:13:57 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 11:13:57 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:13:59 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 11:13:59 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:14:01 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 11:14:01 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: authenticator requests disconnect: reason code 2
+Feb  9 11:14:01 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 11:14:01 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (30)
+Feb  9 11:14:01 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: disassociated
+Feb  9 11:14:01 kernel: [bc:d1:1f:84:95:1c]
+Feb  9 11:14:01 kernel: station needing HT protection leaving,count 0
+Feb  9 11:14:12 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: associated
+Feb  9 11:14:12 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:14:13 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 11:14:13 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:14:15 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 11:14:15 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:14:17 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 11:14:17 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:14:19 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 11:14:19 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: authenticator requests disconnect: reason code 2
+Feb  9 11:14:19 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 11:14:19 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (34)
+Feb  9 11:14:19 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: disassociated
+Feb  9 11:14:19 kernel: [bc:d1:1f:84:95:1c]
+Feb  9 11:14:19 kernel: station needing HT protection leaving,count 0
+Feb  9 11:15:18 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: associated
+Feb  9 11:15:18 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:15:19 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 11:15:19 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:15:21 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 11:15:21 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:15:23 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 11:15:23 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:15:25 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 11:15:25 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: authenticator requests disconnect: reason code 2
+Feb  9 11:15:25 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 11:15:25 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (56)
+Feb  9 11:15:25 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: disassociated
+Feb  9 11:15:25 kernel: [f0:d7:aa:f5:45:34]
+Feb  9 11:15:25 kernel: station needing HT protection leaving,count 0
+Feb  9 11:15:31 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: associated
+Feb  9 11:15:31 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: pairwise key handshake completed (WPA)
+Feb  9 11:15:31 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: group key handshake completed (WPA)
+Feb  9 11:16:35 kernel: [50:82:d5:94:70:e4]
+Feb  9 11:16:35 kernel: station needing HT protection leaving,count 0
+Feb  9 11:16:35 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (38)
+Feb  9 11:16:35 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: disassociated
+Feb  9 11:17:16 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: associated
+Feb  9 11:17:16 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: pairwise key handshake completed (WPA)
+Feb  9 11:17:16 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: group key handshake completed (WPA)
+Feb  9 11:17:46 kernel: [50:82:d5:94:70:e4]
+Feb  9 11:17:46 kernel: station needing HT protection leaving,count 0
+Feb  9 11:17:46 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (38)
+Feb  9 11:17:46 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: disassociated
+Feb  9 11:19:01 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: associated
+Feb  9 11:19:02 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: pairwise key handshake completed (WPA)
+Feb  9 11:19:02 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: group key handshake completed (WPA)
+Feb  9 11:20:57 kernel: [50:82:d5:94:70:e4]
+Feb  9 11:20:57 kernel: station needing HT protection leaving,count 0
+Feb  9 11:20:57 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (14)
+Feb  9 11:20:57 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: disassociated
+Feb  9 11:24:28 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: associated
+Feb  9 11:24:28 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:24:29 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 11:24:29 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:24:31 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 11:24:31 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:24:33 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 11:24:33 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e IEEE 802.11: associated
+Feb  9 11:24:33 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: pairwise key handshake completed (WPA)
+Feb  9 11:24:33 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: group key handshake completed (WPA)
+Feb  9 11:24:33 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:24:33 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea IEEE 802.11: associated
+Feb  9 11:24:33 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: pairwise key handshake completed (WPA)
+Feb  9 11:24:33 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 11:24:35 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 11:24:35 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: authenticator requests disconnect: reason code 2
+Feb  9 11:24:35 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 11:24:35 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (52)
+Feb  9 11:24:35 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: disassociated
+Feb  9 11:24:35 kernel: [f0:d7:aa:f5:45:34]
+Feb  9 11:24:35 kernel: station needing HT protection leaving,count 2
+Feb  9 11:24:55 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: associated
+Feb  9 11:24:55 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:24:56 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 11:24:56 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:24:58 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 11:24:58 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:25:00 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 11:25:00 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:25:02 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 11:25:02 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: authenticator requests disconnect: reason code 2
+Feb  9 11:25:02 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 11:25:02 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (50)
+Feb  9 11:25:02 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: disassociated
+Feb  9 11:25:02 kernel: [f0:d7:aa:f5:45:34]
+Feb  9 11:25:02 kernel: station needing HT protection leaving,count 2
+Feb  9 11:25:05 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: associated
+Feb  9 11:25:05 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: pairwise key handshake completed (WPA)
+Feb  9 11:25:05 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: group key handshake completed (WPA)
+Feb  9 11:25:18 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: associated
+Feb  9 11:25:18 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:25:19 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 11:25:19 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:25:21 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 11:25:21 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:25:23 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 11:25:23 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:25:25 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 11:25:25 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: authenticator requests disconnect: reason code 2
+Feb  9 11:25:25 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 11:25:25 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (57)
+Feb  9 11:25:25 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: disassociated
+Feb  9 11:25:25 kernel: [f0:d7:aa:f5:45:34]
+Feb  9 11:25:25 kernel: station needing HT protection leaving,count 3
+Feb  9 11:26:59 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: group key handshake completed (WPA)
+Feb  9 11:26:59 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 11:27:00 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: EAPOL-Key timeout
+Feb  9 11:27:02 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: EAPOL-Key timeout
+Feb  9 11:27:04 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: EAPOL-Key timeout
+Feb  9 11:27:04 kernel: 
+Feb  9 11:27:04 kernel: wbuf_tx_complete:droping eapol frame for station 50:82:d5:94:70:e4 (TXERROR)
+Feb  9 11:27:06 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: EAPOL-Key timeout
+Feb  9 11:27:06 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: authenticator requests disconnect: reason code 2
+Feb  9 11:27:06 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 11:27:06 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (12)
+Feb  9 11:27:06 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: disassociated
+Feb  9 11:27:06 kernel: [50:82:d5:94:70:e4]
+Feb  9 11:27:06 kernel: station needing HT protection leaving,count 2
+Feb  9 11:27:08 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: recvd disassoc msg from STA, reason code (7), rssi (24)
+Feb  9 11:27:09 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: associated
+Feb  9 11:27:10 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: EAPOL-Key timeout
+Feb  9 11:27:12 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: EAPOL-Key timeout
+Feb  9 11:27:12 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: pairwise key handshake completed (WPA)
+Feb  9 11:27:12 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: group key handshake completed (WPA)
+Feb  9 11:31:25 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: associated
+Feb  9 11:31:26 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 11:31:26 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:31:28 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 11:31:28 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:31:30 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 11:31:30 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:31:32 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 11:31:32 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: authenticator requests disconnect: reason code 2
+Feb  9 11:31:32 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 11:31:32 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (16)
+Feb  9 11:31:32 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: disassociated
+Feb  9 11:31:32 kernel: [bc:d1:1f:84:95:1c]
+Feb  9 11:31:32 kernel: station needing HT protection leaving,count 3
+Feb  9 11:34:12 kernel: [50:82:d5:94:70:e4]
+Feb  9 11:34:12 kernel: station needing HT protection leaving,count 2
+Feb  9 11:34:12 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (17)
+Feb  9 11:34:12 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: disassociated
+Feb  9 11:34:56 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: associated
+Feb  9 11:34:57 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: EAPOL-Key timeout
+Feb  9 11:34:57 kernel: 
+Feb  9 11:34:57 kernel: wbuf_tx_complete:droping eapol frame for station 50:82:d5:94:70:e4 (TXERROR)
+Feb  9 11:34:59 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: EAPOL-Key timeout
+Feb  9 11:34:59 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: pairwise key handshake completed (WPA)
+Feb  9 11:34:59 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: group key handshake completed (WPA)
+Feb  9 11:36:59 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 11:36:59 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: group key handshake completed (WPA)
+Feb  9 11:36:59 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: group key handshake completed (WPA)
+Feb  9 11:38:12 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: associated
+Feb  9 11:38:12 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:38:13 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 11:38:13 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:38:15 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 11:38:15 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:38:17 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 11:38:17 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:38:19 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 11:38:19 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: authenticator requests disconnect: reason code 2
+Feb  9 11:38:19 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 11:38:19 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (27)
+Feb  9 11:38:19 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: disassociated
+Feb  9 11:38:19 kernel: [bc:d1:1f:84:95:1c]
+Feb  9 11:38:19 kernel: station needing HT protection leaving,count 3
+Feb  9 11:46:59 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 11:46:59 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: group key handshake completed (WPA)
+Feb  9 11:46:59 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: group key handshake completed (WPA)
+Feb  9 11:48:06 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 IEEE 802.11: associated
+Feb  9 11:48:06 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:48:07 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 WPA: EAPOL-Key timeout
+Feb  9 11:48:07 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:48:07 kernel: [00:ec:0a:34:74:01]
+Feb  9 11:48:07 kernel: station needing HT protection leaving,count 3
+Feb  9 11:48:07 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 IEEE 802.11: recvd deauth msg from STA, reason code (3), rssi (50)
+Feb  9 11:48:07 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 IEEE 802.11: disassociated
+Feb  9 11:50:21 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: associated
+Feb  9 11:50:21 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:50:22 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 11:50:22 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:50:24 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 11:50:24 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:50:26 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 11:50:26 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:50:28 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 11:50:28 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: authenticator requests disconnect: reason code 2
+Feb  9 11:50:28 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 11:50:28 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (26)
+Feb  9 11:50:28 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: disassociated
+Feb  9 11:50:28 kernel: [bc:d1:1f:84:95:1c]
+Feb  9 11:50:28 kernel: station needing HT protection leaving,count 3
+Feb  9 11:53:26 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: associated
+Feb  9 11:53:26 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:53:27 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 11:53:27 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:53:29 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 11:53:29 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:53:31 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 11:53:31 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:53:33 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 11:53:33 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: authenticator requests disconnect: reason code 2
+Feb  9 11:53:33 kernel: [f0:d7:aa:f5:45:34]
+Feb  9 11:53:33 kernel: station needing HT protection leaving,count 3
+Feb  9 11:53:33 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 11:53:33 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (56)
+Feb  9 11:53:33 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: disassociated
+Feb  9 11:55:56 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: associated
+Feb  9 11:55:57 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 11:55:57 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:55:59 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 11:55:59 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:56:01 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 11:56:01 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 11:56:03 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 11:56:03 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: authenticator requests disconnect: reason code 2
+Feb  9 11:56:03 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 11:56:03 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (23)
+Feb  9 11:56:03 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: disassociated
+Feb  9 11:56:03 kernel: [bc:d1:1f:84:95:1c]
+Feb  9 11:56:03 kernel: station needing HT protection leaving,count 3
+Feb  9 11:56:59 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 11:56:59 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: group key handshake completed (WPA)
+Feb  9 11:56:59 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: group key handshake completed (WPA)
+Feb  9 12:02:23 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 IEEE 802.11: associated
+Feb  9 12:02:23 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 12:02:24 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 WPA: EAPOL-Key timeout
+Feb  9 12:02:24 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 12:02:26 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 WPA: EAPOL-Key timeout
+Feb  9 12:02:26 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 12:02:28 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 WPA: EAPOL-Key timeout
+Feb  9 12:02:28 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 12:02:30 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 WPA: EAPOL-Key timeout
+Feb  9 12:02:30 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 WPA: authenticator requests disconnect: reason code 2
+Feb  9 12:02:30 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 12:02:30 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (49)
+Feb  9 12:02:30 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 IEEE 802.11: disassociated
+Feb  9 12:02:30 kernel: [00:ec:0a:34:74:01]
+Feb  9 12:02:30 kernel: station needing HT protection leaving,count 3
+Feb  9 12:06:59 kernel: 
+Feb  9 12:06:59 kernel: wbuf_tx_complete:droping eapol frame for station a4:34:d9:e5:17:4e (TXERROR)
+Feb  9 12:06:59 kernel: 
+Feb  9 12:06:59 kernel: wbuf_tx_complete:droping eapol frame for station 00:28:f8:93:a9:ea (TXERROR)
+Feb  9 12:07:00 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: group key handshake completed (WPA)
+Feb  9 12:07:00 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: EAPOL-Key timeout
+Feb  9 12:07:00 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: EAPOL-Key timeout
+Feb  9 12:07:00 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 12:07:00 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: group key handshake completed (WPA)
+Feb  9 12:08:48 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: associated
+Feb  9 12:08:49 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 12:08:49 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 12:08:49 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (25)
+Feb  9 12:08:49 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: disassociated
+Feb  9 12:08:49 kernel: [bc:d1:1f:84:95:1c]
+Feb  9 12:08:49 kernel: station needing HT protection leaving,count 3
+Feb  9 12:16:59 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: group key handshake completed (WPA)
+Feb  9 12:16:59 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 12:17:00 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: EAPOL-Key timeout
+Feb  9 12:17:01 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: received EAPOL-Key 2/2 Group with unexpected replay counter
+Feb  9 12:17:01 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: group key handshake completed (WPA)
+Feb  9 12:26:59 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: group key handshake completed (WPA)
+Feb  9 12:26:59 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 12:27:00 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 WPA: group key handshake completed (WPA)
+Feb  9 12:27:01 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: associated
+Feb  9 12:27:01 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 12:27:02 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 12:27:02 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 12:27:04 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 12:27:04 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 12:27:06 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 12:27:06 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 12:27:08 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 12:27:08 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: authenticator requests disconnect: reason code 2
+Feb  9 12:27:08 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 12:27:08 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (31)
+Feb  9 12:27:08 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: disassociated
+Feb  9 12:27:08 kernel: [bc:d1:1f:84:95:1c]
+Feb  9 12:27:08 kernel: station needing HT protection leaving,count 3
+Feb  9 12:27:15 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: associated
+Feb  9 12:27:16 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 12:27:16 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 12:27:18 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 12:27:18 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 12:27:20 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 12:27:20 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 12:27:22 kernel: [bc:d1:1f:84:95:1c]
+Feb  9 12:27:22 kernel: station needing HT protection leaving,count 3
+Feb  9 12:27:22 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (30)
+Feb  9 12:27:22 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: disassociated
+Feb  9 12:27:29 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: associated
+Feb  9 12:27:29 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 12:27:30 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 12:27:30 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 12:27:32 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 12:27:32 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 12:27:34 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 12:27:34 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 12:27:35 kernel: [bc:d1:1f:84:95:1c]
+Feb  9 12:27:35 kernel: station needing HT protection leaving,count 3
+Feb  9 12:27:35 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (30)
+Feb  9 12:27:35 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: disassociated
+Feb  9 12:27:43 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: associated
+Feb  9 12:27:43 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 12:27:44 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 12:27:44 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 12:27:46 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 12:27:46 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 12:27:48 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 12:27:48 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 12:27:50 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 12:27:50 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: authenticator requests disconnect: reason code 2
+Feb  9 12:27:50 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 12:27:50 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (30)
+Feb  9 12:27:50 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: disassociated
+Feb  9 12:27:50 kernel: [bc:d1:1f:84:95:1c]
+Feb  9 12:27:50 kernel: station needing HT protection leaving,count 3
+Feb  9 12:32:29 kernel: [50:82:d5:94:70:e4]
+Feb  9 12:32:29 kernel: station needing HT protection leaving,count 2
+Feb  9 12:32:29 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (45)
+Feb  9 12:32:29 hostapd: wifi0vap0: STA 50:82:d5:94:70:e4 IEEE 802.11: disassociated
+Feb  9 12:33:07 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 IEEE 802.11: associated
+Feb  9 12:33:07 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 12:33:08 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 WPA: EAPOL-Key timeout
+Feb  9 12:33:08 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 12:33:10 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 WPA: EAPOL-Key timeout
+Feb  9 12:33:10 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 12:33:12 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 WPA: EAPOL-Key timeout
+Feb  9 12:33:12 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 12:33:14 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 WPA: EAPOL-Key timeout
+Feb  9 12:33:14 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 WPA: authenticator requests disconnect: reason code 2
+Feb  9 12:33:14 kernel: [00:ec:0a:34:74:01]
+Feb  9 12:33:14 kernel: station needing HT protection leaving,count 2
+Feb  9 12:33:14 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 12:33:14 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (50)
+Feb  9 12:33:14 hostapd: wifi0vap0: STA 00:ec:0a:34:74:01 IEEE 802.11: disassociated
+Feb  9 12:36:59 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: group key handshake completed (WPA)
+Feb  9 12:36:59 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 12:46:21 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: associated
+Feb  9 12:46:21 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 12:46:22 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 12:46:22 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 12:46:24 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 12:46:24 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 12:46:26 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 12:46:26 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 12:46:28 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 12:46:28 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: authenticator requests disconnect: reason code 2
+Feb  9 12:46:28 kernel: [f0:d7:aa:f5:45:34]
+Feb  9 12:46:28 kernel: station needing HT protection leaving,count 2
+Feb  9 12:46:28 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 12:46:28 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (54)
+Feb  9 12:46:28 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: disassociated
+Feb  9 12:46:59 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: group key handshake completed (WPA)
+Feb  9 12:46:59 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 12:47:53 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: associated
+Feb  9 12:47:54 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 12:47:54 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 12:47:54 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 12:47:55 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: recvd deauth msg from STA, reason code (3), rssi (46)
+Feb  9 12:47:55 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: disassociated
+Feb  9 12:47:55 kernel: [f0:d7:aa:f5:45:34]
+Feb  9 12:47:55 kernel: station needing HT protection leaving,count 2
+Feb  9 12:48:55 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: associated
+Feb  9 12:48:55 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 12:48:56 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 12:48:56 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 12:48:58 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 12:48:58 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 12:49:00 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 12:49:00 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 12:49:02 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: EAPOL-Key timeout
+Feb  9 12:49:02 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 WPA: authenticator requests disconnect: reason code 2
+Feb  9 12:49:02 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 12:49:02 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (50)
+Feb  9 12:49:02 hostapd: wifi0vap0: STA f0:d7:aa:f5:45:34 IEEE 802.11: disassociated
+Feb  9 12:49:02 kernel: [f0:d7:aa:f5:45:34]
+Feb  9 12:49:02 kernel: station needing HT protection leaving,count 2
+Feb  9 12:56:59 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: group key handshake completed (WPA)
+Feb  9 12:56:59 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 13:06:59 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: group key handshake completed (WPA)
+Feb  9 13:06:59 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 13:16:59 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: group key handshake completed (WPA)
+Feb  9 13:16:59 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 13:17:13 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: associated
+Feb  9 13:17:13 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 13:17:14 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 13:17:14 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 13:17:16 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 13:17:16 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 13:17:18 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 13:17:18 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 13:17:20 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 13:17:20 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: authenticator requests disconnect: reason code 2
+Feb  9 13:17:20 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 13:17:20 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (32)
+Feb  9 13:17:20 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: disassociated
+Feb  9 13:17:20 kernel: [bc:d1:1f:84:95:1c]
+Feb  9 13:17:20 kernel: station needing HT protection leaving,count 2
+Feb  9 13:17:41 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: associated
+Feb  9 13:17:41 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 13:17:42 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 13:17:42 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 13:17:44 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 13:17:44 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 13:17:46 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 13:17:46 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 13:17:47 kernel: [bc:d1:1f:84:95:1c]
+Feb  9 13:17:47 kernel: station needing HT protection leaving,count 2
+Feb  9 13:17:47 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: recvd disassoc msg from STA, reason code (8), rssi (23)
+Feb  9 13:17:47 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: disassociated
+Feb  9 13:17:58 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: associated
+Feb  9 13:17:58 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 13:17:59 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 13:17:59 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 13:18:01 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 13:18:01 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 13:18:03 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 13:18:03 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 13:18:05 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 13:18:05 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: authenticator requests disconnect: reason code 2
+Feb  9 13:18:05 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 13:18:05 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (26)
+Feb  9 13:18:05 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: disassociated
+Feb  9 13:18:05 kernel: [bc:d1:1f:84:95:1c]
+Feb  9 13:18:05 kernel: station needing HT protection leaving,count 2
+Feb  9 13:26:59 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 13:26:59 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: group key handshake completed (WPA)
+Feb  9 13:35:52 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 IEEE 802.11: associated
+Feb  9 13:35:52 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 13:35:53 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 WPA: EAPOL-Key timeout
+Feb  9 13:35:53 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 13:35:55 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 WPA: EAPOL-Key timeout
+Feb  9 13:35:55 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 13:35:57 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 WPA: EAPOL-Key timeout
+Feb  9 13:35:57 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 13:35:59 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 WPA: EAPOL-Key timeout
+Feb  9 13:35:59 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 WPA: authenticator requests disconnect: reason code 2
+Feb  9 13:35:59 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 13:35:59 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (33)
+Feb  9 13:35:59 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 IEEE 802.11: disassociated
+Feb  9 13:35:59 kernel: [44:85:00:36:3e:72]
+Feb  9 13:35:59 kernel: station needing HT protection leaving,count 2
+Feb  9 13:36:01 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 IEEE 802.11: associated
+Feb  9 13:36:01 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 13:36:02 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 WPA: EAPOL-Key timeout
+Feb  9 13:36:02 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 13:36:04 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 WPA: EAPOL-Key timeout
+Feb  9 13:36:04 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 13:36:06 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 WPA: EAPOL-Key timeout
+Feb  9 13:36:06 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 13:36:08 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 WPA: EAPOL-Key timeout
+Feb  9 13:36:08 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 WPA: authenticator requests disconnect: reason code 2
+Feb  9 13:36:08 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 13:36:08 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (34)
+Feb  9 13:36:08 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 IEEE 802.11: disassociated
+Feb  9 13:36:08 kernel: [44:85:00:36:3e:72]
+Feb  9 13:36:08 kernel: station needing HT protection leaving,count 2
+Feb  9 13:36:18 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 IEEE 802.11: associated
+Feb  9 13:36:18 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 13:36:19 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 WPA: EAPOL-Key timeout
+Feb  9 13:36:19 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 13:36:21 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 WPA: EAPOL-Key timeout
+Feb  9 13:36:21 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 13:36:23 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 WPA: EAPOL-Key timeout
+Feb  9 13:36:23 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 13:36:25 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 WPA: EAPOL-Key timeout
+Feb  9 13:36:25 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 WPA: authenticator requests disconnect: reason code 2
+Feb  9 13:36:25 kernel: [44:85:00:36:3e:72]
+Feb  9 13:36:25 kernel: station needing HT protection leaving,count 2
+Feb  9 13:36:25 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 13:36:25 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (33)
+Feb  9 13:36:25 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 IEEE 802.11: disassociated
+Feb  9 13:36:28 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 IEEE 802.11: associated
+Feb  9 13:36:28 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 13:36:29 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 WPA: EAPOL-Key timeout
+Feb  9 13:36:29 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 13:36:31 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 WPA: EAPOL-Key timeout
+Feb  9 13:36:31 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 13:36:33 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 WPA: EAPOL-Key timeout
+Feb  9 13:36:33 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 13:36:35 kernel: [44:85:00:36:3e:72]
+Feb  9 13:36:35 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 IEEE 802.11: recvd deauth msg from STA, reason code (3), rssi (33)
+Feb  9 13:36:35 hostapd: wifi0vap0: STA 44:85:00:36:3e:72 IEEE 802.11: disassociated
+Feb  9 13:36:35 kernel: station needing HT protection leaving,count 2
+Feb  9 13:36:59 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: group key handshake completed (WPA)
+Feb  9 13:36:59 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 13:41:01 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: associated
+Feb  9 13:41:01 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 13:41:02 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 13:41:02 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 13:41:04 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 13:41:04 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 13:41:06 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 13:41:06 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 13:41:08 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 13:41:08 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: authenticator requests disconnect: reason code 2
+Feb  9 13:41:08 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 13:41:08 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (28)
+Feb  9 13:41:08 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: disassociated
+Feb  9 13:41:08 kernel: [bc:d1:1f:84:95:1c]
+Feb  9 13:41:08 kernel: station needing HT protection leaving,count 2
+Feb  9 13:46:59 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: group key handshake completed (WPA)
+Feb  9 13:46:59 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 13:56:59 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: group key handshake completed (WPA)
+Feb  9 13:56:59 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 14:01:23 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: associated
+Feb  9 14:01:23 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:01:24 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 14:01:24 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:01:26 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 14:01:26 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:01:28 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 14:01:28 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: invalid MIC in msg 2/4 of 4-Way Handshake
+Feb  9 14:01:30 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: EAPOL-Key timeout
+Feb  9 14:01:30 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c WPA: authenticator requests disconnect: reason code 2
+Feb  9 14:01:30 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: deauthenticated due to local deauth request
+Feb  9 14:01:30 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: recvd deauth msg from STA, reason code (2), rssi (26)
+Feb  9 14:01:30 hostapd: wifi0vap0: STA bc:d1:1f:84:95:1c IEEE 802.11: disassociated
+Feb  9 14:01:30 kernel: [bc:d1:1f:84:95:1c]
+Feb  9 14:01:30 kernel: station needing HT protection leaving,count 2
+Feb  9 14:06:59 hostapd: wifi0vap0: STA a4:34:d9:e5:17:4e WPA: group key handshake completed (WPA)
+Feb  9 14:06:59 hostapd: wifi0vap0: STA 00:28:f8:93:a9:ea WPA: group key handshake completed (WPA)
+Feb  9 14:08:56 kernel: VSC8601: unit 0  phy_addr 1
+Feb  9 14:08:56 kernel: AG7100: unit 0: phy not up carrier 1
+Feb  9 14:08:56 kernel: brtrunk: port 1(eth0) entering disabled state
+Feb  9 14:09:40 kernel: VSC8601: unit 0  phy_addr 1
+Feb  9 14:09:40 kernel: AG7100: unit 0 phy is up...RGMii 1000Mbps full duplex
