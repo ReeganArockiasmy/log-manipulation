@@ -57,8 +57,7 @@ done
 # echo $TOTIME
 # echo $TODATE
 
-awk 'FROMDATE <= $2 && $2 <=TODATE && (FROMTIME <= $3 || FROMDATE != $2) && (TODATE != $2 || $3 <= TOTIME)' $LOGFILE
+
+ awk -v start_day=$FROMDATE -v stop_day=$TODATE -v start_time=$FROMTIME -v stop_time=$TOTIME 'start_day <= $2 && $2 <= stop_day && (start_time <= $3 || start_day != $2) && $3 <= stop_time' $LOGFILE
 
 
-
-# awk -v FROMDATE=24 -v TODATE=25 -v FROMTIME=05:00:00.000000 -v TOTIME=05:00:00.999999 'FROMDATE <= $2 && $2 <=TODATE && (FROMTIME <= $3 || FROMDATE != $2) && (stop_day != $2 || $3 <= TOTIME)' $LOGFILE
