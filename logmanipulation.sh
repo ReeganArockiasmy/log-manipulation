@@ -6,7 +6,9 @@ FROMTIME="00:00:00"
 TOTIME="59:59:59"
 USAGE="USAGE:\n
 $0 -f <filename> \n
-$0 -f <filename> -d 5,7"
+$0 -f <filename> -d 5,7\n
+example:\n
+$0 -f log.txt -d 9,9 -t 14:08:56,14:09:40"
 
 filter_date(){
     FROMDATE=`echo $1 | cut -d "," -f 1`
@@ -53,12 +55,15 @@ do
     fi
     shift
 done
-# echo $FROMTIME
-# echo $FROMDATE
-# echo $TOTIME
-# echo $TODATE
 
-
- awk -v start_day=$FROMDATE -v stop_day=$TODATE -v start_time=$FROMTIME -v stop_time=$TOTIME 'start_day <= $2 && $2 <= stop_day && (start_time <= $3 || start_day != $2) && $3 <= stop_time' $LOGFILE
+# Check log file give to input or not
+if [[ -n $LOGFILE ]]
+then
+    echo "if conditon"
+    awk -v start_day=$FROMDATE -v stop_day=$TODATE -v start_time=$FROMTIME -v stop_time=$TOTIME 'start_day <= $2 && $2 <= stop_day && (start_time <= $3 || start_day != $2) && $3 <= stop_time' $LOGFILE
+else
+    echo "must enter file name"
+    echo $USAGE
+fi
 
 
